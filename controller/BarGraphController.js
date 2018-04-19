@@ -1,17 +1,20 @@
 app.controller('BarGraphController', [
   '$scope',
   'ClaimService',
-  function($scope, ClaimService) {
+  '$filter',
+  function($scope, ClaimService, $filter) {
     console.log(ClaimService)
     $scope.data1 = [];
     $scope.getData = (function() {
       ClaimService.getData().then(function(data) {
-        console.log(data)
-        debugger;
+        //console.log(data)
+        data = $filter('orderBy')(data, '-claimsPerMonth')
+        console.log(data);
+
         $scope.data = [
           {
-            key: "Airport codes",
-            "color": "#d62728",
+            key: "Average claims per month",
+            "color": "#107dea",
             values: data
           }
         ]
@@ -21,23 +24,30 @@ app.controller('BarGraphController', [
     $scope.options = {
       chart: {
         type: 'multiBarHorizontalChart',
-        height: 450,
+        height: 7000,
+
         x: function(d) {
           return d.apCode;
         },
         y: function(d) {
           return d.claimsPerMonth;
         },
-        showControls: true,
+        showControls: false,
         showValues: true,
         duration: 500,
         xAxis: {
           showMaxMin: false
         },
         yAxis: {
-          axisLabel: 'Values',
+          axisLabel: 'Average claims per month',
           tickFormat: function(d) {
             return d3.format(',.2f')(d);
+          }
+        },
+        tooltip: {
+          contentGenerator: function(d) {
+            console.log(d.data.Mean)
+            return "<h3>" + "test" + "</h3>";
           }
         }
       }
