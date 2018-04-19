@@ -3,2828 +3,2828 @@
     "apCode": "SLC",
     "Claims": 383,
     "claimsPerMonth": 32,
-    "Mean": 0.00921,
-    "Standard Deviation": 23.677
+    "mean": 0.00921,
+    "stDev": 23.677
   },
   {
     "apCode": "LAX",
     "Claims": 1882,
     "claimsPerMonth": 157,
-    "Mean": 0.04524,
-    "Standard Deviation": 24.772
+    "mean": 0.04524,
+    "stDev": 24.772
   },
   {
     "apCode": "SEA",
     "Claims": 1070,
     "claimsPerMonth": 89,
-    "Mean": 0.02572,
-    "Standard Deviation": 23.984
+    "mean": 0.02572,
+    "stDev": 23.984
   },
   {
     "apCode": "DEN",
     "Claims": 883,
     "claimsPerMonth": 74,
-    "Mean": 0.02123,
-    "Standard Deviation": 23.871
+    "mean": 0.02123,
+    "stDev": 23.871
   },
   {
     "apCode": "LAS",
     "Claims": 1081,
     "claimsPerMonth": 90,
-    "Mean": 0.02599,
-    "Standard Deviation": 23.992
+    "mean": 0.02599,
+    "stDev": 23.992
   },
   {
     "apCode": "DFW",
     "Claims": 905,
     "claimsPerMonth": 75,
-    "Mean": 0.02176,
-    "Standard Deviation": 23.878
+    "mean": 0.02176,
+    "stDev": 23.878
   },
   {
     "apCode": "ASE",
     "Claims": 20,
     "claimsPerMonth": 2,
-    "Mean": 0.00048,
-    "Standard Deviation": 23.651
+    "mean": 0.00048,
+    "stDev": 23.651
   },
   {
     "apCode": "XNA",
     "Claims": 26,
     "claimsPerMonth": 2,
-    "Mean": 0.00063,
-    "Standard Deviation": 23.651
+    "mean": 0.00063,
+    "stDev": 23.651
   },
   {
     "apCode": "IAD",
     "Claims": 877,
     "claimsPerMonth": 73,
-    "Mean": 0.02108,
-    "Standard Deviation": 23.864
+    "mean": 0.02108,
+    "stDev": 23.864
   },
   {
     "apCode": "BDL",
     "Claims": 164,
     "claimsPerMonth": 14,
-    "Mean": 0.00394,
-    "Standard Deviation": 23.65
+    "mean": 0.00394,
+    "stDev": 23.65
   },
   {
     "apCode": "DAL",
     "Claims": 170,
     "claimsPerMonth": 14,
-    "Mean": 0.00409,
-    "Standard Deviation": 23.65
+    "mean": 0.00409,
+    "stDev": 23.65
   },
   {
     "apCode": "ORF",
     "Claims": 141,
     "claimsPerMonth": 12,
-    "Mean": 0.00339,
-    "Standard Deviation": 23.649
+    "mean": 0.00339,
+    "stDev": 23.649
   },
   {
     "apCode": "CLE",
     "Claims": 164,
     "claimsPerMonth": 14,
-    "Mean": 0.00394,
-    "Standard Deviation": 23.65
+    "mean": 0.00394,
+    "stDev": 23.65
   },
   {
     "apCode": "JFK",
     "Claims": 2839,
     "claimsPerMonth": 237,
-    "Mean": 0.06825,
-    "Standard Deviation": 26.231
+    "mean": 0.06825,
+    "stDev": 26.231
   },
   {
     "apCode": "ATL",
     "Claims": 1468,
     "claimsPerMonth": 122,
-    "Mean": 0.03529,
-    "Standard Deviation": 24.311
+    "mean": 0.03529,
+    "stDev": 24.311
   },
   {
     "apCode": "BNA",
     "Claims": 242,
     "claimsPerMonth": 20,
-    "Mean": 0.00582,
-    "Standard Deviation": 23.655
+    "mean": 0.00582,
+    "stDev": 23.655
   },
   {
     "apCode": "EWR",
     "Claims": 1300,
     "claimsPerMonth": 108,
-    "Mean": 0.03125,
-    "Standard Deviation": 24.159
+    "mean": 0.03125,
+    "stDev": 24.159
   },
   {
     "apCode": "BIL",
     "Claims": 33,
     "claimsPerMonth": 3,
-    "Mean": 0.00079,
-    "Standard Deviation": 23.65
+    "mean": 0.00079,
+    "stDev": 23.65
   },
   {
     "apCode": "MCO",
     "Claims": 1699,
     "claimsPerMonth": 142,
-    "Mean": 0.04084,
-    "Standard Deviation": 24.56
+    "mean": 0.04084,
+    "stDev": 24.56
   },
   {
     "apCode": "BOS",
     "Claims": 1190,
     "claimsPerMonth": 99,
-    "Mean": 0.02861,
-    "Standard Deviation": 24.072
+    "mean": 0.02861,
+    "stDev": 24.072
   },
   {
     "apCode": "CVG",
     "Claims": 130,
     "claimsPerMonth": 11,
-    "Mean": 0.00313,
-    "Standard Deviation": 23.649
+    "mean": 0.00313,
+    "stDev": 23.649
   },
   {
     "apCode": "MYR",
     "Claims": 58,
     "claimsPerMonth": 5,
-    "Mean": 0.00139,
-    "Standard Deviation": 23.649
+    "mean": 0.00139,
+    "stDev": 23.649
   },
   {
     "apCode": "MIA",
     "Claims": 1431,
     "claimsPerMonth": 119,
-    "Mean": 0.0344,
-    "Standard Deviation": 24.277
+    "mean": 0.0344,
+    "stDev": 24.277
   },
   {
     "apCode": "PHX",
     "Claims": 978,
     "claimsPerMonth": 82,
-    "Mean": 0.02351,
-    "Standard Deviation": 23.928
+    "mean": 0.02351,
+    "stDev": 23.928
   },
   {
     "apCode": "SDF",
     "Claims": 115,
     "claimsPerMonth": 10,
-    "Mean": 0.00276,
-    "Standard Deviation": 23.649
+    "mean": 0.00276,
+    "stDev": 23.649
   },
   {
     "apCode": "BWI",
     "Claims": 657,
     "claimsPerMonth": 55,
-    "Mean": 0.01579,
-    "Standard Deviation": 23.761
+    "mean": 0.01579,
+    "stDev": 23.761
   },
   {
     "apCode": "MEM",
     "Claims": 158,
     "claimsPerMonth": 13,
-    "Mean": 0.0038,
-    "Standard Deviation": 23.65
+    "mean": 0.0038,
+    "stDev": 23.65
   },
   {
     "apCode": "SMF",
     "Claims": 259,
     "claimsPerMonth": 22,
-    "Mean": 0.00623,
-    "Standard Deviation": 23.658
+    "mean": 0.00623,
+    "stDev": 23.658
   },
   {
     "apCode": "GEG",
     "Claims": 147,
     "claimsPerMonth": 12,
-    "Mean": 0.00353,
-    "Standard Deviation": 23.649
+    "mean": 0.00353,
+    "stDev": 23.649
   },
   {
     "apCode": "MSY",
     "Claims": 316,
     "claimsPerMonth": 26,
-    "Mean": 0.0076,
-    "Standard Deviation": 23.664
+    "mean": 0.0076,
+    "stDev": 23.664
   },
   {
     "apCode": "BTR",
     "Claims": 27,
     "claimsPerMonth": 2,
-    "Mean": 0.00065,
-    "Standard Deviation": 23.651
+    "mean": 0.00065,
+    "stDev": 23.651
   },
   {
     "apCode": "ORD",
     "Claims": 1305,
     "claimsPerMonth": 109,
-    "Mean": 0.03137,
-    "Standard Deviation": 24.169
+    "mean": 0.03137,
+    "stDev": 24.169
   },
   {
     "apCode": "GUC",
     "Claims": 5,
     "claimsPerMonth": 0,
-    "Mean": 0.00012,
-    "Standard Deviation": 23.652
+    "mean": 0.00012,
+    "stDev": 23.652
   },
   {
     "apCode": "SNA",
     "Claims": 308,
     "claimsPerMonth": 26,
-    "Mean": 0.0074,
-    "Standard Deviation": 23.664
+    "mean": 0.0074,
+    "stDev": 23.664
   },
   {
     "apCode": "PBI",
     "Claims": 249,
     "claimsPerMonth": 21,
-    "Mean": 0.00599,
-    "Standard Deviation": 23.657
+    "mean": 0.00599,
+    "stDev": 23.657
   },
   {
     "apCode": "TUL",
     "Claims": 53,
     "claimsPerMonth": 4,
-    "Mean": 0.00127,
-    "Standard Deviation": 23.65
+    "mean": 0.00127,
+    "stDev": 23.65
   },
   {
     "apCode": "OAK",
     "Claims": 329,
     "claimsPerMonth": 27,
-    "Mean": 0.00791,
-    "Standard Deviation": 23.666
+    "mean": 0.00791,
+    "stDev": 23.666
   },
   {
     "apCode": "FLL",
     "Claims": 873,
     "claimsPerMonth": 73,
-    "Mean": 0.02099,
-    "Standard Deviation": 23.864
+    "mean": 0.02099,
+    "stDev": 23.864
   },
   {
     "apCode": "SYR",
     "Claims": 54,
     "claimsPerMonth": 5,
-    "Mean": 0.0013,
-    "Standard Deviation": 23.649
+    "mean": 0.0013,
+    "stDev": 23.649
   },
   {
     "apCode": "F",
     "Claims": 361,
     "claimsPerMonth": 30,
-    "Mean": 0.00868,
-    "Standard Deviation": 23.673
+    "mean": 0.00868,
+    "stDev": 23.673
   },
   {
     "apCode": "COS",
     "Claims": 88,
     "claimsPerMonth": 7,
-    "Mean": 0.00212,
-    "Standard Deviation": 23.649
+    "mean": 0.00212,
+    "stDev": 23.649
   },
   {
     "apCode": "HOU",
     "Claims": 209,
     "claimsPerMonth": 17,
-    "Mean": 0.00502,
-    "Standard Deviation": 23.652
+    "mean": 0.00502,
+    "stDev": 23.652
   },
   {
     "apCode": "AUS",
     "Claims": 247,
     "claimsPerMonth": 21,
-    "Mean": 0.00594,
-    "Standard Deviation": 23.657
+    "mean": 0.00594,
+    "stDev": 23.657
   },
   {
     "apCode": "TPA",
     "Claims": 659,
     "claimsPerMonth": 55,
-    "Mean": 0.01584,
-    "Standard Deviation": 23.761
+    "mean": 0.01584,
+    "stDev": 23.761
   },
   {
     "apCode": "PHL",
     "Claims": 925,
     "claimsPerMonth": 77,
-    "Mean": 0.02224,
-    "Standard Deviation": 23.892
+    "mean": 0.02224,
+    "stDev": 23.892
   },
   {
     "apCode": "OMA",
     "Claims": 219,
     "claimsPerMonth": 18,
-    "Mean": 0.00526,
-    "Standard Deviation": 23.653
+    "mean": 0.00526,
+    "stDev": 23.653
   },
   {
     "apCode": "ISP",
     "Claims": 54,
     "claimsPerMonth": 5,
-    "Mean": 0.0013,
-    "Standard Deviation": 23.649
+    "mean": 0.0013,
+    "stDev": 23.649
   },
   {
     "apCode": "RDU",
     "Claims": 216,
     "claimsPerMonth": 18,
-    "Mean": 0.00519,
-    "Standard Deviation": 23.653
+    "mean": 0.00519,
+    "stDev": 23.653
   },
   {
     "apCode": "PSP",
     "Claims": 116,
     "claimsPerMonth": 10,
-    "Mean": 0.00279,
-    "Standard Deviation": 23.649
+    "mean": 0.00279,
+    "stDev": 23.649
   },
   {
     "apCode": "RNO",
     "Claims": 219,
     "claimsPerMonth": 18,
-    "Mean": 0.00526,
-    "Standard Deviation": 23.653
+    "mean": 0.00526,
+    "stDev": 23.653
   },
   {
     "apCode": "GRR",
     "Claims": 62,
     "claimsPerMonth": 5,
-    "Mean": 0.00149,
-    "Standard Deviation": 23.649
+    "mean": 0.00149,
+    "stDev": 23.649
   },
   {
     "apCode": "PWM",
     "Claims": 63,
     "claimsPerMonth": 5,
-    "Mean": 0.00151,
-    "Standard Deviation": 23.649
+    "mean": 0.00151,
+    "stDev": 23.649
   },
   {
     "apCode": "MCI",
     "Claims": 30,
     "claimsPerMonth": 3,
-    "Mean": 0.00072,
-    "Standard Deviation": 23.65
+    "mean": 0.00072,
+    "stDev": 23.65
   },
   {
     "apCode": "RIC",
     "Claims": 87,
     "claimsPerMonth": 7,
-    "Mean": 0.00209,
-    "Standard Deviation": 23.649
+    "mean": 0.00209,
+    "stDev": 23.649
   },
   {
     "apCode": "IND",
     "Claims": 190,
     "claimsPerMonth": 16,
-    "Mean": 0.00457,
-    "Standard Deviation": 23.652
+    "mean": 0.00457,
+    "stDev": 23.652
   },
   {
     "apCode": "OKC",
     "Claims": 102,
     "claimsPerMonth": 9,
-    "Mean": 0.00245,
-    "Standard Deviation": 23.649
+    "mean": 0.00245,
+    "stDev": 23.649
   },
   {
     "apCode": "-",
     "Claims": 318,
     "claimsPerMonth": 27,
-    "Mean": 0.00764,
-    "Standard Deviation": 23.666
+    "mean": 0.00764,
+    "stDev": 23.666
   },
   {
     "apCode": "DAY",
     "Claims": 73,
     "claimsPerMonth": 6,
-    "Mean": 0.00175,
-    "Standard Deviation": 23.649
+    "mean": 0.00175,
+    "stDev": 23.649
   },
   {
     "apCode": "PIT",
     "Claims": 253,
     "claimsPerMonth": 21,
-    "Mean": 0.00608,
-    "Standard Deviation": 23.657
+    "mean": 0.00608,
+    "stDev": 23.657
   },
   {
     "apCode": "CHA",
     "Claims": 20,
     "claimsPerMonth": 2,
-    "Mean": 0.00048,
-    "Standard Deviation": 23.651
+    "mean": 0.00048,
+    "stDev": 23.651
   },
   {
     "apCode": "STL",
     "Claims": 237,
     "claimsPerMonth": 20,
-    "Mean": 0.0057,
-    "Standard Deviation": 23.655
+    "mean": 0.0057,
+    "stDev": 23.655
   },
   {
     "apCode": "SAN",
     "Claims": 614,
     "claimsPerMonth": 51,
-    "Mean": 0.01476,
-    "Standard Deviation": 23.742
+    "mean": 0.01476,
+    "stDev": 23.742
   },
   {
     "apCode": "OGG",
     "Claims": 226,
     "claimsPerMonth": 19,
-    "Mean": 0.00543,
-    "Standard Deviation": 23.654
+    "mean": 0.00543,
+    "stDev": 23.654
   },
   {
     "apCode": "ABI",
     "Claims": 12,
     "claimsPerMonth": 1,
-    "Mean": 0.00029,
-    "Standard Deviation": 23.652
+    "mean": 0.00029,
+    "stDev": 23.652
   },
   {
     "apCode": "MKE",
     "Claims": 166,
     "claimsPerMonth": 14,
-    "Mean": 0.00399,
-    "Standard Deviation": 23.65
+    "mean": 0.00399,
+    "stDev": 23.65
   },
   {
     "apCode": "SJC",
     "Claims": 271,
     "claimsPerMonth": 23,
-    "Mean": 0.00651,
-    "Standard Deviation": 23.66
+    "mean": 0.00651,
+    "stDev": 23.66
   },
   {
     "apCode": "IAH",
     "Claims": 779,
     "claimsPerMonth": 65,
-    "Mean": 0.01873,
-    "Standard Deviation": 23.814
+    "mean": 0.01873,
+    "stDev": 23.814
   },
   {
     "apCode": "LGA",
     "Claims": 678,
     "claimsPerMonth": 57,
-    "Mean": 0.0163,
-    "Standard Deviation": 23.771
+    "mean": 0.0163,
+    "stDev": 23.771
   },
   {
     "apCode": "BMI",
     "Claims": 16,
     "claimsPerMonth": 1,
-    "Mean": 0.00038,
-    "Standard Deviation": 23.652
+    "mean": 0.00038,
+    "stDev": 23.652
   },
   {
     "apCode": "HNL",
     "Claims": 573,
     "claimsPerMonth": 48,
-    "Mean": 0.01378,
-    "Standard Deviation": 23.73
+    "mean": 0.01378,
+    "stDev": 23.73
   },
   {
     "apCode": "JAX",
     "Claims": 154,
     "claimsPerMonth": 13,
-    "Mean": 0.0037,
-    "Standard Deviation": 23.65
+    "mean": 0.0037,
+    "stDev": 23.65
   },
   {
     "apCode": "HSV",
     "Claims": 43,
     "claimsPerMonth": 4,
-    "Mean": 0.00103,
-    "Standard Deviation": 23.65
+    "mean": 0.00103,
+    "stDev": 23.65
   },
   {
     "apCode": "PIE",
     "Claims": 32,
     "claimsPerMonth": 3,
-    "Mean": 0.00077,
-    "Standard Deviation": 23.65
+    "mean": 0.00077,
+    "stDev": 23.65
   },
   {
     "apCode": "KOA",
     "Claims": 92,
     "claimsPerMonth": 8,
-    "Mean": 0.00221,
-    "Standard Deviation": 23.649
+    "mean": 0.00221,
+    "stDev": 23.649
   },
   {
     "apCode": "MHT",
     "Claims": 103,
     "claimsPerMonth": 9,
-    "Mean": 0.00248,
-    "Standard Deviation": 23.649
+    "mean": 0.00248,
+    "stDev": 23.649
   },
   {
     "apCode": "BZN",
     "Claims": 43,
     "claimsPerMonth": 4,
-    "Mean": 0.00103,
-    "Standard Deviation": 23.65
+    "mean": 0.00103,
+    "stDev": 23.65
   },
   {
     "apCode": "MDT",
     "Claims": 41,
     "claimsPerMonth": 3,
-    "Mean": 0.00099,
-    "Standard Deviation": 23.65
+    "mean": 0.00099,
+    "stDev": 23.65
   },
   {
     "apCode": "SBY",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "CLT",
     "Claims": 505,
     "claimsPerMonth": 42,
-    "Mean": 0.01214,
-    "Standard Deviation": 23.707
+    "mean": 0.01214,
+    "stDev": 23.707
   },
   {
     "apCode": "SJU",
     "Claims": 284,
     "claimsPerMonth": 24,
-    "Mean": 0.00683,
-    "Standard Deviation": 23.661
+    "mean": 0.00683,
+    "stDev": 23.661
   },
   {
     "apCode": "DTW",
     "Claims": 385,
     "claimsPerMonth": 32,
-    "Mean": 0.00926,
-    "Standard Deviation": 23.677
+    "mean": 0.00926,
+    "stDev": 23.677
   },
   {
     "apCode": "ABQ",
     "Claims": 159,
     "claimsPerMonth": 13,
-    "Mean": 0.00382,
-    "Standard Deviation": 23.65
+    "mean": 0.00382,
+    "stDev": 23.65
   },
   {
     "apCode": "PVD",
     "Claims": 145,
     "claimsPerMonth": 12,
-    "Mean": 0.00349,
-    "Standard Deviation": 23.649
+    "mean": 0.00349,
+    "stDev": 23.649
   },
   {
     "apCode": "FAI",
     "Claims": 35,
     "claimsPerMonth": 3,
-    "Mean": 0.00084,
-    "Standard Deviation": 23.65
+    "mean": 0.00084,
+    "stDev": 23.65
   },
   {
     "apCode": "GSN",
     "Claims": 4,
     "claimsPerMonth": 0,
-    "Mean": 0.0001,
-    "Standard Deviation": 23.652
+    "mean": 0.0001,
+    "stDev": 23.652
   },
   {
     "apCode": "ALB",
     "Claims": 115,
     "claimsPerMonth": 10,
-    "Mean": 0.00276,
-    "Standard Deviation": 23.649
+    "mean": 0.00276,
+    "stDev": 23.649
   },
   {
     "apCode": "BGR",
     "Claims": 14,
     "claimsPerMonth": 1,
-    "Mean": 0.00034,
-    "Standard Deviation": 23.652
+    "mean": 0.00034,
+    "stDev": 23.652
   },
   {
     "apCode": "EWN",
     "Claims": 15,
     "claimsPerMonth": 1,
-    "Mean": 0.00036,
-    "Standard Deviation": 23.652
+    "mean": 0.00036,
+    "stDev": 23.652
   },
   {
     "apCode": "ABE",
     "Claims": 33,
     "claimsPerMonth": 3,
-    "Mean": 0.00079,
-    "Standard Deviation": 23.65
+    "mean": 0.00079,
+    "stDev": 23.65
   },
   {
     "apCode": "HDN",
     "Claims": 10,
     "claimsPerMonth": 1,
-    "Mean": 0.00024,
-    "Standard Deviation": 23.652
+    "mean": 0.00024,
+    "stDev": 23.652
   },
   {
     "apCode": "MDW",
     "Claims": 362,
     "claimsPerMonth": 30,
-    "Mean": 0.0087,
-    "Standard Deviation": 23.673
+    "mean": 0.0087,
+    "stDev": 23.673
   },
   {
     "apCode": "CMH",
     "Claims": 135,
     "claimsPerMonth": 11,
-    "Mean": 0.00325,
-    "Standard Deviation": 23.649
+    "mean": 0.00325,
+    "stDev": 23.649
   },
   {
     "apCode": "BLI",
     "Claims": 32,
     "claimsPerMonth": 3,
-    "Mean": 0.00077,
-    "Standard Deviation": 23.65
+    "mean": 0.00077,
+    "stDev": 23.65
   },
   {
     "apCode": "MTJ",
     "Claims": 26,
     "claimsPerMonth": 2,
-    "Mean": 0.00063,
-    "Standard Deviation": 23.651
+    "mean": 0.00063,
+    "stDev": 23.651
   },
   {
     "apCode": "GSP",
     "Claims": 89,
     "claimsPerMonth": 7,
-    "Mean": 0.00214,
-    "Standard Deviation": 23.649
+    "mean": 0.00214,
+    "stDev": 23.649
   },
   {
     "apCode": "DCA",
     "Claims": 357,
     "claimsPerMonth": 30,
-    "Mean": 0.00858,
-    "Standard Deviation": 23.673
+    "mean": 0.00858,
+    "stDev": 23.673
   },
   {
     "apCode": "LIT",
     "Claims": 67,
     "claimsPerMonth": 6,
-    "Mean": 0.00161,
-    "Standard Deviation": 23.649
+    "mean": 0.00161,
+    "stDev": 23.649
   },
   {
     "apCode": "STT",
     "Claims": 78,
     "claimsPerMonth": 7,
-    "Mean": 0.00188,
-    "Standard Deviation": 23.649
+    "mean": 0.00188,
+    "stDev": 23.649
   },
   {
     "apCode": "ONT",
     "Claims": 169,
     "claimsPerMonth": 14,
-    "Mean": 0.00406,
-    "Standard Deviation": 23.65
+    "mean": 0.00406,
+    "stDev": 23.65
   },
   {
     "apCode": "ACY",
     "Claims": 45,
     "claimsPerMonth": 4,
-    "Mean": 0.00108,
-    "Standard Deviation": 23.65
+    "mean": 0.00108,
+    "stDev": 23.65
   },
   {
     "apCode": "LAW",
     "Claims": 6,
     "claimsPerMonth": 1,
-    "Mean": 0.00014,
-    "Standard Deviation": 23.652
+    "mean": 0.00014,
+    "stDev": 23.652
   },
   {
     "apCode": "BUF",
     "Claims": 176,
     "claimsPerMonth": 15,
-    "Mean": 0.00423,
-    "Standard Deviation": 23.651
+    "mean": 0.00423,
+    "stDev": 23.651
   },
   {
     "apCode": "GPT",
     "Claims": 48,
     "claimsPerMonth": 4,
-    "Mean": 0.00115,
-    "Standard Deviation": 23.65
+    "mean": 0.00115,
+    "stDev": 23.65
   },
   {
     "apCode": "MFR",
     "Claims": 28,
     "claimsPerMonth": 2,
-    "Mean": 0.00067,
-    "Standard Deviation": 23.651
+    "mean": 0.00067,
+    "stDev": 23.651
   },
   {
     "apCode": "BUR",
     "Claims": 159,
     "claimsPerMonth": 13,
-    "Mean": 0.00382,
-    "Standard Deviation": 23.65
+    "mean": 0.00382,
+    "stDev": 23.65
   },
   {
     "apCode": "LEX",
     "Claims": 29,
     "claimsPerMonth": 2,
-    "Mean": 0.0007,
-    "Standard Deviation": 23.651
+    "mean": 0.0007,
+    "stDev": 23.651
   },
   {
     "apCode": "INL",
     "Claims": 11,
     "claimsPerMonth": 1,
-    "Mean": 0.00026,
-    "Standard Deviation": 23.652
+    "mean": 0.00026,
+    "stDev": 23.652
   },
   {
     "apCode": "IPT",
     "Claims": 4,
     "claimsPerMonth": 0,
-    "Mean": 0.0001,
-    "Standard Deviation": 23.652
+    "mean": 0.0001,
+    "stDev": 23.652
   },
   {
     "apCode": "GPI",
     "Claims": 15,
     "claimsPerMonth": 1,
-    "Mean": 0.00036,
-    "Standard Deviation": 23.652
+    "mean": 0.00036,
+    "stDev": 23.652
   },
   {
     "apCode": "MSP",
     "Claims": 451,
     "claimsPerMonth": 38,
-    "Mean": 0.01084,
-    "Standard Deviation": 23.694
+    "mean": 0.01084,
+    "stDev": 23.694
   },
   {
     "apCode": "RSW",
     "Claims": 248,
     "claimsPerMonth": 21,
-    "Mean": 0.00596,
-    "Standard Deviation": 23.657
+    "mean": 0.00596,
+    "stDev": 23.657
   },
   {
     "apCode": "SFO",
     "Claims": 141,
     "claimsPerMonth": 12,
-    "Mean": 0.00339,
-    "Standard Deviation": 23.649
+    "mean": 0.00339,
+    "stDev": 23.649
   },
   {
     "apCode": "AGS",
     "Claims": 22,
     "claimsPerMonth": 2,
-    "Mean": 0.00053,
-    "Standard Deviation": 23.651
+    "mean": 0.00053,
+    "stDev": 23.651
   },
   {
     "apCode": "CHS",
     "Claims": 105,
     "claimsPerMonth": 9,
-    "Mean": 0.00252,
-    "Standard Deviation": 23.649
+    "mean": 0.00252,
+    "stDev": 23.649
   },
   {
     "apCode": "ELP",
     "Claims": 77,
     "claimsPerMonth": 6,
-    "Mean": 0.00185,
-    "Standard Deviation": 23.649
+    "mean": 0.00185,
+    "stDev": 23.649
   },
   {
     "apCode": "RST",
     "Claims": 15,
     "claimsPerMonth": 1,
-    "Mean": 0.00036,
-    "Standard Deviation": 23.652
+    "mean": 0.00036,
+    "stDev": 23.652
   },
   {
     "apCode": "CHO",
     "Claims": 53,
     "claimsPerMonth": 4,
-    "Mean": 0.00127,
-    "Standard Deviation": 23.65
+    "mean": 0.00127,
+    "stDev": 23.65
   },
   {
     "apCode": "SWF",
     "Claims": 23,
     "claimsPerMonth": 2,
-    "Mean": 0.00055,
-    "Standard Deviation": 23.651
+    "mean": 0.00055,
+    "stDev": 23.651
   },
   {
     "apCode": "AMA",
     "Claims": 36,
     "claimsPerMonth": 3,
-    "Mean": 0.00087,
-    "Standard Deviation": 23.65
+    "mean": 0.00087,
+    "stDev": 23.65
   },
   {
     "apCode": "DSM",
     "Claims": 35,
     "claimsPerMonth": 3,
-    "Mean": 0.00084,
-    "Standard Deviation": 23.65
+    "mean": 0.00084,
+    "stDev": 23.65
   },
   {
     "apCode": "PDX",
     "Claims": 422,
     "claimsPerMonth": 35,
-    "Mean": 0.01014,
-    "Standard Deviation": 23.685
+    "mean": 0.01014,
+    "stDev": 23.685
   },
   {
     "apCode": "LWS",
     "Claims": 4,
     "claimsPerMonth": 0,
-    "Mean": 0.0001,
-    "Standard Deviation": 23.652
+    "mean": 0.0001,
+    "stDev": 23.652
   },
   {
     "apCode": "ZZX",
     "Claims": 129,
     "claimsPerMonth": 11,
-    "Mean": 0.0031,
-    "Standard Deviation": 23.649
+    "mean": 0.0031,
+    "stDev": 23.649
   },
   {
     "apCode": "MLU",
     "Claims": 10,
     "claimsPerMonth": 1,
-    "Mean": 0.00024,
-    "Standard Deviation": 23.652
+    "mean": 0.00024,
+    "stDev": 23.652
   },
   {
     "apCode": "SPS",
     "Claims": 6,
     "claimsPerMonth": 1,
-    "Mean": 0.00014,
-    "Standard Deviation": 23.652
+    "mean": 0.00014,
+    "stDev": 23.652
   },
   {
     "apCode": "LIH",
     "Claims": 116,
     "claimsPerMonth": 10,
-    "Mean": 0.00279,
-    "Standard Deviation": 23.649
+    "mean": 0.00279,
+    "stDev": 23.649
   },
   {
     "apCode": "SMX",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "SAV",
     "Claims": 67,
     "claimsPerMonth": 6,
-    "Mean": 0.00161,
-    "Standard Deviation": 23.649
+    "mean": 0.00161,
+    "stDev": 23.649
   },
   {
     "apCode": "TVC",
     "Claims": 14,
     "claimsPerMonth": 1,
-    "Mean": 0.00034,
-    "Standard Deviation": 23.652
+    "mean": 0.00034,
+    "stDev": 23.652
   },
   {
     "apCode": "ROC",
     "Claims": 30,
     "claimsPerMonth": 3,
-    "Mean": 0.00072,
-    "Standard Deviation": 23.65
+    "mean": 0.00072,
+    "stDev": 23.65
   },
   {
     "apCode": "DHN",
     "Claims": 11,
     "claimsPerMonth": 1,
-    "Mean": 0.00026,
-    "Standard Deviation": 23.652
+    "mean": 0.00026,
+    "stDev": 23.652
   },
   {
     "apCode": "BTV",
     "Claims": 69,
     "claimsPerMonth": 6,
-    "Mean": 0.00166,
-    "Standard Deviation": 23.649
+    "mean": 0.00166,
+    "stDev": 23.649
   },
   {
     "apCode": "MGM",
     "Claims": 14,
     "claimsPerMonth": 1,
-    "Mean": 0.00034,
-    "Standard Deviation": 23.652
+    "mean": 0.00034,
+    "stDev": 23.652
   },
   {
     "apCode": "ANC",
     "Claims": 154,
     "claimsPerMonth": 13,
-    "Mean": 0.0037,
-    "Standard Deviation": 23.65
+    "mean": 0.0037,
+    "stDev": 23.65
   },
   {
     "apCode": "LBB",
     "Claims": 24,
     "claimsPerMonth": 2,
-    "Mean": 0.00058,
-    "Standard Deviation": 23.651
+    "mean": 0.00058,
+    "stDev": 23.651
   },
   {
     "apCode": "GTR",
     "Claims": 13,
     "claimsPerMonth": 1,
-    "Mean": 0.00031,
-    "Standard Deviation": 23.652
+    "mean": 0.00031,
+    "stDev": 23.652
   },
   {
     "apCode": "LGB",
     "Claims": 64,
     "claimsPerMonth": 5,
-    "Mean": 0.00154,
-    "Standard Deviation": 23.649
+    "mean": 0.00154,
+    "stDev": 23.649
   },
   {
     "apCode": "SAT",
     "Claims": 201,
     "claimsPerMonth": 17,
-    "Mean": 0.00483,
-    "Standard Deviation": 23.652
+    "mean": 0.00483,
+    "stDev": 23.652
   },
   {
     "apCode": "CEC",
     "Claims": 3,
     "claimsPerMonth": 0,
-    "Mean": 0.00007,
-    "Standard Deviation": 23.652
+    "mean": 0.00007,
+    "stDev": 23.652
   },
   {
     "apCode": "ROA",
     "Claims": 27,
     "claimsPerMonth": 2,
-    "Mean": 0.00065,
-    "Standard Deviation": 23.651
+    "mean": 0.00065,
+    "stDev": 23.651
   },
   {
     "apCode": "TUS",
     "Claims": 132,
     "claimsPerMonth": 11,
-    "Mean": 0.00317,
-    "Standard Deviation": 23.649
+    "mean": 0.00317,
+    "stDev": 23.649
   },
   {
     "apCode": "EUG",
     "Claims": 42,
     "claimsPerMonth": 4,
-    "Mean": 0.00101,
-    "Standard Deviation": 23.65
+    "mean": 0.00101,
+    "stDev": 23.65
   },
   {
     "apCode": "CAK",
     "Claims": 52,
     "claimsPerMonth": 4,
-    "Mean": 0.00125,
-    "Standard Deviation": 23.65
+    "mean": 0.00125,
+    "stDev": 23.65
   },
   {
     "apCode": "BHM",
     "Claims": 63,
     "claimsPerMonth": 5,
-    "Mean": 0.00151,
-    "Standard Deviation": 23.649
+    "mean": 0.00151,
+    "stDev": 23.649
   },
   {
     "apCode": "RKS",
     "Claims": 4,
     "claimsPerMonth": 0,
-    "Mean": 0.0001,
-    "Standard Deviation": 23.652
+    "mean": 0.0001,
+    "stDev": 23.652
   },
   {
     "apCode": "BOI",
     "Claims": 60,
     "claimsPerMonth": 5,
-    "Mean": 0.00144,
-    "Standard Deviation": 23.649
+    "mean": 0.00144,
+    "stDev": 23.649
   },
   {
     "apCode": "CID",
     "Claims": 21,
     "claimsPerMonth": 2,
-    "Mean": 0.0005,
-    "Standard Deviation": 23.651
+    "mean": 0.0005,
+    "stDev": 23.651
   },
   {
     "apCode": "EGE",
     "Claims": 25,
     "claimsPerMonth": 2,
-    "Mean": 0.0006,
-    "Standard Deviation": 23.651
+    "mean": 0.0006,
+    "stDev": 23.651
   },
   {
     "apCode": "SAF",
     "Claims": 18,
     "claimsPerMonth": 2,
-    "Mean": 0.00043,
-    "Standard Deviation": 23.651
+    "mean": 0.00043,
+    "stDev": 23.651
   },
   {
     "apCode": "BTM",
     "Claims": 4,
     "claimsPerMonth": 0,
-    "Mean": 0.0001,
-    "Standard Deviation": 23.652
+    "mean": 0.0001,
+    "stDev": 23.652
   },
   {
     "apCode": "SBN",
     "Claims": 16,
     "claimsPerMonth": 1,
-    "Mean": 0.00038,
-    "Standard Deviation": 23.652
+    "mean": 0.00038,
+    "stDev": 23.652
   },
   {
     "apCode": "SGF",
     "Claims": 30,
     "claimsPerMonth": 3,
-    "Mean": 0.00072,
-    "Standard Deviation": 23.65
+    "mean": 0.00072,
+    "stDev": 23.65
   },
   {
     "apCode": "PGD",
     "Claims": 10,
     "claimsPerMonth": 1,
-    "Mean": 0.00024,
-    "Standard Deviation": 23.652
+    "mean": 0.00024,
+    "stDev": 23.652
   },
   {
     "apCode": "IYK",
     "Claims": 4,
     "claimsPerMonth": 0,
-    "Mean": 0.0001,
-    "Standard Deviation": 23.652
+    "mean": 0.0001,
+    "stDev": 23.652
   },
   {
     "apCode": "GNV",
     "Claims": 9,
     "claimsPerMonth": 1,
-    "Mean": 0.00022,
-    "Standard Deviation": 23.652
+    "mean": 0.00022,
+    "stDev": 23.652
   },
   {
     "apCode": "IWA",
     "Claims": 23,
     "claimsPerMonth": 2,
-    "Mean": 0.00055,
-    "Standard Deviation": 23.651
+    "mean": 0.00055,
+    "stDev": 23.651
   },
   {
     "apCode": "FAR",
     "Claims": 14,
     "claimsPerMonth": 1,
-    "Mean": 0.00034,
-    "Standard Deviation": 23.652
+    "mean": 0.00034,
+    "stDev": 23.652
   },
   {
     "apCode": "ITO",
     "Claims": 39,
     "claimsPerMonth": 3,
-    "Mean": 0.00094,
-    "Standard Deviation": 23.65
+    "mean": 0.00094,
+    "stDev": 23.65
   },
   {
     "apCode": "PNS",
     "Claims": 65,
     "claimsPerMonth": 5,
-    "Mean": 0.00156,
-    "Standard Deviation": 23.649
+    "mean": 0.00156,
+    "stDev": 23.649
   },
   {
     "apCode": "PSE",
     "Claims": 9,
     "claimsPerMonth": 1,
-    "Mean": 0.00022,
-    "Standard Deviation": 23.652
+    "mean": 0.00022,
+    "stDev": 23.652
   },
   {
     "apCode": "VLD",
     "Claims": 9,
     "claimsPerMonth": 1,
-    "Mean": 0.00022,
-    "Standard Deviation": 23.652
+    "mean": 0.00022,
+    "stDev": 23.652
   },
   {
     "apCode": "ABY",
     "Claims": 9,
     "claimsPerMonth": 1,
-    "Mean": 0.00022,
-    "Standard Deviation": 23.652
+    "mean": 0.00022,
+    "stDev": 23.652
   },
   {
     "apCode": "BRO",
     "Claims": 6,
     "claimsPerMonth": 1,
-    "Mean": 0.00014,
-    "Standard Deviation": 23.652
+    "mean": 0.00014,
+    "stDev": 23.652
   },
   {
     "apCode": "FWA",
     "Claims": 13,
     "claimsPerMonth": 1,
-    "Mean": 0.00031,
-    "Standard Deviation": 23.652
+    "mean": 0.00031,
+    "stDev": 23.652
   },
   {
     "apCode": "LNY",
     "Claims": 4,
     "claimsPerMonth": 0,
-    "Mean": 0.0001,
-    "Standard Deviation": 23.652
+    "mean": 0.0001,
+    "stDev": 23.652
   },
   {
     "apCode": "PSC",
     "Claims": 20,
     "claimsPerMonth": 2,
-    "Mean": 0.00048,
-    "Standard Deviation": 23.651
+    "mean": 0.00048,
+    "stDev": 23.651
   },
   {
     "apCode": "AVL",
     "Claims": 23,
     "claimsPerMonth": 2,
-    "Mean": 0.00055,
-    "Standard Deviation": 23.651
+    "mean": 0.00055,
+    "stDev": 23.651
   },
   {
     "apCode": "ORH",
     "Claims": 9,
     "claimsPerMonth": 1,
-    "Mean": 0.00022,
-    "Standard Deviation": 23.652
+    "mean": 0.00022,
+    "stDev": 23.652
   },
   {
     "apCode": "MOB",
     "Claims": 14,
     "claimsPerMonth": 1,
-    "Mean": 0.00034,
-    "Standard Deviation": 23.652
+    "mean": 0.00034,
+    "stDev": 23.652
   },
   {
     "apCode": "IFP",
     "Claims": 15,
     "claimsPerMonth": 1,
-    "Mean": 0.00036,
-    "Standard Deviation": 23.652
+    "mean": 0.00036,
+    "stDev": 23.652
   },
   {
     "apCode": "MLI",
     "Claims": 32,
     "claimsPerMonth": 3,
-    "Mean": 0.00077,
-    "Standard Deviation": 23.65
+    "mean": 0.00077,
+    "stDev": 23.65
   },
   {
     "apCode": "PIA",
     "Claims": 22,
     "claimsPerMonth": 2,
-    "Mean": 0.00053,
-    "Standard Deviation": 23.651
+    "mean": 0.00053,
+    "stDev": 23.651
   },
   {
     "apCode": "MFE",
     "Claims": 19,
     "claimsPerMonth": 2,
-    "Mean": 0.00046,
-    "Standard Deviation": 23.651
+    "mean": 0.00046,
+    "stDev": 23.651
   },
   {
     "apCode": "HTS",
     "Claims": 9,
     "claimsPerMonth": 1,
-    "Mean": 0.00022,
-    "Standard Deviation": 23.652
+    "mean": 0.00022,
+    "stDev": 23.652
   },
   {
     "apCode": "JNU",
     "Claims": 14,
     "claimsPerMonth": 1,
-    "Mean": 0.00034,
-    "Standard Deviation": 23.652
+    "mean": 0.00034,
+    "stDev": 23.652
   },
   {
     "apCode": "BGM",
     "Claims": 13,
     "claimsPerMonth": 1,
-    "Mean": 0.00031,
-    "Standard Deviation": 23.652
+    "mean": 0.00031,
+    "stDev": 23.652
   },
   {
     "apCode": "SBP",
     "Claims": 24,
     "claimsPerMonth": 2,
-    "Mean": 0.00058,
-    "Standard Deviation": 23.651
+    "mean": 0.00058,
+    "stDev": 23.651
   },
   {
     "apCode": "LRD",
     "Claims": 6,
     "claimsPerMonth": 1,
-    "Mean": 0.00014,
-    "Standard Deviation": 23.652
+    "mean": 0.00014,
+    "stDev": 23.652
   },
   {
     "apCode": "CKB",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "SFB",
     "Claims": 35,
     "claimsPerMonth": 3,
-    "Mean": 0.00084,
-    "Standard Deviation": 23.65
+    "mean": 0.00084,
+    "stDev": 23.65
   },
   {
     "apCode": "JAN",
     "Claims": 66,
     "claimsPerMonth": 6,
-    "Mean": 0.00159,
-    "Standard Deviation": 23.649
+    "mean": 0.00159,
+    "stDev": 23.649
   },
   {
     "apCode": "LFT",
     "Claims": 13,
     "claimsPerMonth": 1,
-    "Mean": 0.00031,
-    "Standard Deviation": 23.652
+    "mean": 0.00031,
+    "stDev": 23.652
   },
   {
     "apCode": "ICT",
     "Claims": 32,
     "claimsPerMonth": 3,
-    "Mean": 0.00077,
-    "Standard Deviation": 23.65
+    "mean": 0.00077,
+    "stDev": 23.65
   },
   {
     "apCode": "GJT",
     "Claims": 15,
     "claimsPerMonth": 1,
-    "Mean": 0.00036,
-    "Standard Deviation": 23.652
+    "mean": 0.00036,
+    "stDev": 23.652
   },
   {
     "apCode": "CLL",
     "Claims": 13,
     "claimsPerMonth": 1,
-    "Mean": 0.00031,
-    "Standard Deviation": 23.652
+    "mean": 0.00031,
+    "stDev": 23.652
   },
   {
     "apCode": "LNK",
     "Claims": 24,
     "claimsPerMonth": 2,
-    "Mean": 0.00058,
-    "Standard Deviation": 23.651
+    "mean": 0.00058,
+    "stDev": 23.651
   },
   {
     "apCode": "GSO",
     "Claims": 50,
     "claimsPerMonth": 4,
-    "Mean": 0.0012,
-    "Standard Deviation": 23.65
+    "mean": 0.0012,
+    "stDev": 23.65
   },
   {
     "apCode": "YKM",
     "Claims": 19,
     "claimsPerMonth": 2,
-    "Mean": 0.00046,
-    "Standard Deviation": 23.651
+    "mean": 0.00046,
+    "stDev": 23.651
   },
   {
     "apCode": "STX",
     "Claims": 16,
     "claimsPerMonth": 1,
-    "Mean": 0.00038,
-    "Standard Deviation": 23.652
+    "mean": 0.00038,
+    "stDev": 23.652
   },
   {
     "apCode": "ELM",
     "Claims": 8,
     "claimsPerMonth": 1,
-    "Mean": 0.00019,
-    "Standard Deviation": 23.652
+    "mean": 0.00019,
+    "stDev": 23.652
   },
   {
     "apCode": "BQK",
     "Claims": 7,
     "claimsPerMonth": 1,
-    "Mean": 0.00017,
-    "Standard Deviation": 23.652
+    "mean": 0.00017,
+    "stDev": 23.652
   },
   {
     "apCode": "AVP",
     "Claims": 18,
     "claimsPerMonth": 2,
-    "Mean": 0.00043,
-    "Standard Deviation": 23.651
+    "mean": 0.00043,
+    "stDev": 23.651
   },
   {
     "apCode": "CRP",
     "Claims": 26,
     "claimsPerMonth": 2,
-    "Mean": 0.00063,
-    "Standard Deviation": 23.651
+    "mean": 0.00063,
+    "stDev": 23.651
   },
   {
     "apCode": "CPR",
     "Claims": 11,
     "claimsPerMonth": 1,
-    "Mean": 0.00026,
-    "Standard Deviation": 23.652
+    "mean": 0.00026,
+    "stDev": 23.652
   },
   {
     "apCode": "ACK",
     "Claims": 6,
     "claimsPerMonth": 1,
-    "Mean": 0.00014,
-    "Standard Deviation": 23.652
+    "mean": 0.00014,
+    "stDev": 23.652
   },
   {
     "apCode": "HVN",
     "Claims": 3,
     "claimsPerMonth": 0,
-    "Mean": 0.00007,
-    "Standard Deviation": 23.652
+    "mean": 0.00007,
+    "stDev": 23.652
   },
   {
     "apCode": "DAB",
     "Claims": 22,
     "claimsPerMonth": 2,
-    "Mean": 0.00053,
-    "Standard Deviation": 23.651
+    "mean": 0.00053,
+    "stDev": 23.651
   },
   {
     "apCode": "BIS",
     "Claims": 10,
     "claimsPerMonth": 1,
-    "Mean": 0.00024,
-    "Standard Deviation": 23.652
+    "mean": 0.00024,
+    "stDev": 23.652
   },
   {
     "apCode": "SBA",
     "Claims": 40,
     "claimsPerMonth": 3,
-    "Mean": 0.00096,
-    "Standard Deviation": 23.65
+    "mean": 0.00096,
+    "stDev": 23.65
   },
   {
     "apCode": "APN",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "MSO",
     "Claims": 18,
     "claimsPerMonth": 2,
-    "Mean": 0.00043,
-    "Standard Deviation": 23.651
+    "mean": 0.00043,
+    "stDev": 23.651
   },
   {
     "apCode": "LSE",
     "Claims": 5,
     "claimsPerMonth": 0,
-    "Mean": 0.00012,
-    "Standard Deviation": 23.652
+    "mean": 0.00012,
+    "stDev": 23.652
   },
   {
     "apCode": "ITH",
     "Claims": 25,
     "claimsPerMonth": 2,
-    "Mean": 0.0006,
-    "Standard Deviation": 23.651
+    "mean": 0.0006,
+    "stDev": 23.651
   },
   {
     "apCode": "TEX",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "MAF",
     "Claims": 16,
     "claimsPerMonth": 1,
-    "Mean": 0.00038,
-    "Standard Deviation": 23.652
+    "mean": 0.00038,
+    "stDev": 23.652
   },
   {
     "apCode": "PHF",
     "Claims": 31,
     "claimsPerMonth": 3,
-    "Mean": 0.00075,
-    "Standard Deviation": 23.65
+    "mean": 0.00075,
+    "stDev": 23.65
   },
   {
     "apCode": "FLG",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "GRK",
     "Claims": 11,
     "claimsPerMonth": 1,
-    "Mean": 0.00026,
-    "Standard Deviation": 23.652
+    "mean": 0.00026,
+    "stDev": 23.652
   },
   {
     "apCode": "BQN",
     "Claims": 19,
     "claimsPerMonth": 2,
-    "Mean": 0.00046,
-    "Standard Deviation": 23.651
+    "mean": 0.00046,
+    "stDev": 23.651
   },
   {
     "apCode": "ENV",
     "Claims": 5,
     "claimsPerMonth": 0,
-    "Mean": 0.00012,
-    "Standard Deviation": 23.652
+    "mean": 0.00012,
+    "stDev": 23.652
   },
   {
     "apCode": "FAT",
     "Claims": 49,
     "claimsPerMonth": 4,
-    "Mean": 0.00118,
-    "Standard Deviation": 23.65
+    "mean": 0.00118,
+    "stDev": 23.65
   },
   {
     "apCode": "PUW",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "OME",
     "Claims": 9,
     "claimsPerMonth": 1,
-    "Mean": 0.00022,
-    "Standard Deviation": 23.652
+    "mean": 0.00022,
+    "stDev": 23.652
   },
   {
     "apCode": "MMH",
     "Claims": 16,
     "claimsPerMonth": 1,
-    "Mean": 0.00038,
-    "Standard Deviation": 23.652
+    "mean": 0.00038,
+    "stDev": 23.652
   },
   {
     "apCode": "AEX",
     "Claims": 12,
     "claimsPerMonth": 1,
-    "Mean": 0.00029,
-    "Standard Deviation": 23.652
+    "mean": 0.00029,
+    "stDev": 23.652
   },
   {
     "apCode": "TLH",
     "Claims": 26,
     "claimsPerMonth": 2,
-    "Mean": 0.00063,
-    "Standard Deviation": 23.651
+    "mean": 0.00063,
+    "stDev": 23.651
   },
   {
     "apCode": "YUM",
     "Claims": 18,
     "claimsPerMonth": 2,
-    "Mean": 0.00043,
-    "Standard Deviation": 23.651
+    "mean": 0.00043,
+    "stDev": 23.651
   },
   {
     "apCode": "HXD",
     "Claims": 16,
     "claimsPerMonth": 1,
-    "Mean": 0.00038,
-    "Standard Deviation": 23.652
+    "mean": 0.00038,
+    "stDev": 23.652
   },
   {
     "apCode": "RAP",
     "Claims": 24,
     "claimsPerMonth": 2,
-    "Mean": 0.00058,
-    "Standard Deviation": 23.651
+    "mean": 0.00058,
+    "stDev": 23.651
   },
   {
     "apCode": "LYH",
     "Claims": 3,
     "claimsPerMonth": 0,
-    "Mean": 0.00007,
-    "Standard Deviation": 23.652
+    "mean": 0.00007,
+    "stDev": 23.652
   },
   {
     "apCode": "IAG",
     "Claims": 26,
     "claimsPerMonth": 2,
-    "Mean": 0.00063,
-    "Standard Deviation": 23.651
+    "mean": 0.00063,
+    "stDev": 23.651
   },
   {
     "apCode": "EYW",
     "Claims": 7,
     "claimsPerMonth": 1,
-    "Mean": 0.00017,
-    "Standard Deviation": 23.652
+    "mean": 0.00017,
+    "stDev": 23.652
   },
   {
     "apCode": "GUM",
     "Claims": 35,
     "claimsPerMonth": 3,
-    "Mean": 0.00084,
-    "Standard Deviation": 23.65
+    "mean": 0.00084,
+    "stDev": 23.65
   },
   {
     "apCode": "CRW",
     "Claims": 6,
     "claimsPerMonth": 1,
-    "Mean": 0.00014,
-    "Standard Deviation": 23.652
+    "mean": 0.00014,
+    "stDev": 23.652
   },
   {
     "apCode": "HRL",
     "Claims": 23,
     "claimsPerMonth": 2,
-    "Mean": 0.00055,
-    "Standard Deviation": 23.651
+    "mean": 0.00055,
+    "stDev": 23.651
   },
   {
     "apCode": "CMX",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "BFL",
     "Claims": 11,
     "claimsPerMonth": 1,
-    "Mean": 0.00026,
-    "Standard Deviation": 23.652
+    "mean": 0.00026,
+    "stDev": 23.652
   },
   {
     "apCode": "LBF",
     "Claims": 4,
     "claimsPerMonth": 0,
-    "Mean": 0.0001,
-    "Standard Deviation": 23.652
+    "mean": 0.0001,
+    "stDev": 23.652
   },
   {
     "apCode": "GFK",
     "Claims": 6,
     "claimsPerMonth": 1,
-    "Mean": 0.00014,
-    "Standard Deviation": 23.652
+    "mean": 0.00014,
+    "stDev": 23.652
   },
   {
     "apCode": "IPL",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "ATW",
     "Claims": 15,
     "claimsPerMonth": 1,
-    "Mean": 0.00036,
-    "Standard Deviation": 23.652
+    "mean": 0.00036,
+    "stDev": 23.652
   },
   {
     "apCode": "MRY",
     "Claims": 17,
     "claimsPerMonth": 1,
-    "Mean": 0.00041,
-    "Standard Deviation": 23.652
+    "mean": 0.00041,
+    "stDev": 23.652
   },
   {
     "apCode": "SHV",
     "Claims": 14,
     "claimsPerMonth": 1,
-    "Mean": 0.00034,
-    "Standard Deviation": 23.652
+    "mean": 0.00034,
+    "stDev": 23.652
   },
   {
     "apCode": "AUG",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "CMI",
     "Claims": 4,
     "claimsPerMonth": 0,
-    "Mean": 0.0001,
-    "Standard Deviation": 23.652
+    "mean": 0.0001,
+    "stDev": 23.652
   },
   {
     "apCode": "FMN",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "HIB",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "RDD",
     "Claims": 7,
     "claimsPerMonth": 1,
-    "Mean": 0.00017,
-    "Standard Deviation": 23.652
+    "mean": 0.00017,
+    "stDev": 23.652
   },
   {
     "apCode": "LNS",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "TRI",
     "Claims": 35,
     "claimsPerMonth": 3,
-    "Mean": 0.00084,
-    "Standard Deviation": 23.65
+    "mean": 0.00084,
+    "stDev": 23.65
   },
   {
     "apCode": "SRQ",
     "Claims": 43,
     "claimsPerMonth": 4,
-    "Mean": 0.00103,
-    "Standard Deviation": 23.65
+    "mean": 0.00103,
+    "stDev": 23.65
   },
   {
     "apCode": "ILM",
     "Claims": 25,
     "claimsPerMonth": 2,
-    "Mean": 0.0006,
-    "Standard Deviation": 23.651
+    "mean": 0.0006,
+    "stDev": 23.651
   },
   {
     "apCode": "ISN",
     "Claims": 3,
     "claimsPerMonth": 0,
-    "Mean": 0.00007,
-    "Standard Deviation": 23.652
+    "mean": 0.00007,
+    "stDev": 23.652
   },
   {
     "apCode": "AHN",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "AZO",
     "Claims": 17,
     "claimsPerMonth": 1,
-    "Mean": 0.00041,
-    "Standard Deviation": 23.652
+    "mean": 0.00041,
+    "stDev": 23.652
   },
   {
     "apCode": "IDA",
     "Claims": 7,
     "claimsPerMonth": 1,
-    "Mean": 0.00017,
-    "Standard Deviation": 23.652
+    "mean": 0.00017,
+    "stDev": 23.652
   },
   {
     "apCode": "PIB",
     "Claims": 4,
     "claimsPerMonth": 0,
-    "Mean": 0.0001,
-    "Standard Deviation": 23.652
+    "mean": 0.0001,
+    "stDev": 23.652
   },
   {
     "apCode": "TYR",
     "Claims": 21,
     "claimsPerMonth": 2,
-    "Mean": 0.0005,
-    "Standard Deviation": 23.651
+    "mean": 0.0005,
+    "stDev": 23.651
   },
   {
     "apCode": "HPN",
     "Claims": 53,
     "claimsPerMonth": 4,
-    "Mean": 0.00127,
-    "Standard Deviation": 23.65
+    "mean": 0.00127,
+    "stDev": 23.65
   },
   {
     "apCode": "PGV",
     "Claims": 8,
     "claimsPerMonth": 1,
-    "Mean": 0.00019,
-    "Standard Deviation": 23.652
+    "mean": 0.00019,
+    "stDev": 23.652
   },
   {
     "apCode": "BPT",
     "Claims": 3,
     "claimsPerMonth": 0,
-    "Mean": 0.00007,
-    "Standard Deviation": 23.652
+    "mean": 0.00007,
+    "stDev": 23.652
   },
   {
     "apCode": "ECP",
     "Claims": 27,
     "claimsPerMonth": 2,
-    "Mean": 0.00065,
-    "Standard Deviation": 23.651
+    "mean": 0.00065,
+    "stDev": 23.651
   },
   {
     "apCode": "MSN",
     "Claims": 41,
     "claimsPerMonth": 3,
-    "Mean": 0.00099,
-    "Standard Deviation": 23.65
+    "mean": 0.00099,
+    "stDev": 23.65
   },
   {
     "apCode": "EVV",
     "Claims": 9,
     "claimsPerMonth": 1,
-    "Mean": 0.00022,
-    "Standard Deviation": 23.652
+    "mean": 0.00022,
+    "stDev": 23.652
   },
   {
     "apCode": "LEB",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "PSG",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "TOL",
     "Claims": 6,
     "claimsPerMonth": 1,
-    "Mean": 0.00014,
-    "Standard Deviation": 23.652
+    "mean": 0.00014,
+    "stDev": 23.652
   },
   {
     "apCode": "LCH",
     "Claims": 7,
     "claimsPerMonth": 1,
-    "Mean": 0.00017,
-    "Standard Deviation": 23.652
+    "mean": 0.00017,
+    "stDev": 23.652
   },
   {
     "apCode": "FNT",
     "Claims": 32,
     "claimsPerMonth": 3,
-    "Mean": 0.00077,
-    "Standard Deviation": 23.65
+    "mean": 0.00077,
+    "stDev": 23.65
   },
   {
     "apCode": "DLH",
     "Claims": 12,
     "claimsPerMonth": 1,
-    "Mean": 0.00029,
-    "Standard Deviation": 23.652
+    "mean": 0.00029,
+    "stDev": 23.652
   },
   {
     "apCode": "COU",
     "Claims": 9,
     "claimsPerMonth": 1,
-    "Mean": 0.00022,
-    "Standard Deviation": 23.652
+    "mean": 0.00022,
+    "stDev": 23.652
   },
   {
     "apCode": "BKG",
     "Claims": 10,
     "claimsPerMonth": 1,
-    "Mean": 0.00024,
-    "Standard Deviation": 23.652
+    "mean": 0.00024,
+    "stDev": 23.652
   },
   {
     "apCode": "EAT",
     "Claims": 13,
     "claimsPerMonth": 1,
-    "Mean": 0.00031,
-    "Standard Deviation": 23.652
+    "mean": 0.00031,
+    "stDev": 23.652
   },
   {
     "apCode": "SJT",
     "Claims": 17,
     "claimsPerMonth": 1,
-    "Mean": 0.00041,
-    "Standard Deviation": 23.652
+    "mean": 0.00041,
+    "stDev": 23.652
   },
   {
     "apCode": "YNG",
     "Claims": 5,
     "claimsPerMonth": 0,
-    "Mean": 0.00012,
-    "Standard Deviation": 23.652
+    "mean": 0.00012,
+    "stDev": 23.652
   },
   {
     "apCode": "MKK",
     "Claims": 3,
     "claimsPerMonth": 0,
-    "Mean": 0.00007,
-    "Standard Deviation": 23.652
+    "mean": 0.00007,
+    "stDev": 23.652
   },
   {
     "apCode": "COD",
     "Claims": 7,
     "claimsPerMonth": 1,
-    "Mean": 0.00017,
-    "Standard Deviation": 23.652
+    "mean": 0.00017,
+    "stDev": 23.652
   },
   {
     "apCode": "MKG",
     "Claims": 3,
     "claimsPerMonth": 0,
-    "Mean": 0.00007,
-    "Standard Deviation": 23.652
+    "mean": 0.00007,
+    "stDev": 23.652
   },
   {
     "apCode": "GRB",
     "Claims": 22,
     "claimsPerMonth": 2,
-    "Mean": 0.00053,
-    "Standard Deviation": 23.651
+    "mean": 0.00053,
+    "stDev": 23.651
   },
   {
     "apCode": "TYS",
     "Claims": 47,
     "claimsPerMonth": 4,
-    "Mean": 0.00113,
-    "Standard Deviation": 23.65
+    "mean": 0.00113,
+    "stDev": 23.65
   },
   {
     "apCode": "SIT",
     "Claims": 5,
     "claimsPerMonth": 0,
-    "Mean": 0.00012,
-    "Standard Deviation": 23.652
+    "mean": 0.00012,
+    "stDev": 23.652
   },
   {
     "apCode": "MLB",
     "Claims": 12,
     "claimsPerMonth": 1,
-    "Mean": 0.00029,
-    "Standard Deviation": 23.652
+    "mean": 0.00029,
+    "stDev": 23.652
   },
   {
     "apCode": "BJI",
     "Claims": 9,
     "claimsPerMonth": 1,
-    "Mean": 0.00022,
-    "Standard Deviation": 23.652
+    "mean": 0.00022,
+    "stDev": 23.652
   },
   {
     "apCode": "MOD",
     "Claims": 5,
     "claimsPerMonth": 0,
-    "Mean": 0.00012,
-    "Standard Deviation": 23.652
+    "mean": 0.00012,
+    "stDev": 23.652
   },
   {
     "apCode": "ACT",
     "Claims": 8,
     "claimsPerMonth": 1,
-    "Mean": 0.00019,
-    "Standard Deviation": 23.652
+    "mean": 0.00019,
+    "stDev": 23.652
   },
   {
     "apCode": "DLG",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "TVF",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "PLN",
     "Claims": 9,
     "claimsPerMonth": 1,
-    "Mean": 0.00022,
-    "Standard Deviation": 23.652
+    "mean": 0.00022,
+    "stDev": 23.652
   },
   {
     "apCode": "PBG",
     "Claims": 8,
     "claimsPerMonth": 1,
-    "Mean": 0.00019,
-    "Standard Deviation": 23.652
+    "mean": 0.00019,
+    "stDev": 23.652
   },
   {
     "apCode": "KTN",
     "Claims": 11,
     "claimsPerMonth": 1,
-    "Mean": 0.00026,
-    "Standard Deviation": 23.652
+    "mean": 0.00026,
+    "stDev": 23.652
   },
   {
     "apCode": "RFD",
     "Claims": 5,
     "claimsPerMonth": 0,
-    "Mean": 0.00012,
-    "Standard Deviation": 23.652
+    "mean": 0.00012,
+    "stDev": 23.652
   },
   {
     "apCode": "OTH",
     "Claims": 13,
     "claimsPerMonth": 1,
-    "Mean": 0.00031,
-    "Standard Deviation": 23.652
+    "mean": 0.00031,
+    "stDev": 23.652
   },
   {
     "apCode": "ABR",
     "Claims": 8,
     "claimsPerMonth": 1,
-    "Mean": 0.00019,
-    "Standard Deviation": 23.652
+    "mean": 0.00019,
+    "stDev": 23.652
   },
   {
     "apCode": "STS",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "WRG",
     "Claims": 3,
     "claimsPerMonth": 0,
-    "Mean": 0.00007,
-    "Standard Deviation": 23.652
+    "mean": 0.00007,
+    "stDev": 23.652
   },
   {
     "apCode": "FNL",
     "Claims": 6,
     "claimsPerMonth": 1,
-    "Mean": 0.00014,
-    "Standard Deviation": 23.652
+    "mean": 0.00014,
+    "stDev": 23.652
   },
   {
     "apCode": "ERI",
     "Claims": 6,
     "claimsPerMonth": 1,
-    "Mean": 0.00014,
-    "Standard Deviation": 23.652
+    "mean": 0.00014,
+    "stDev": 23.652
   },
   {
     "apCode": "FSD",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "PRC",
     "Claims": 3,
     "claimsPerMonth": 0,
-    "Mean": 0.00007,
-    "Standard Deviation": 23.652
+    "mean": 0.00007,
+    "stDev": 23.652
   },
   {
     "apCode": "ADQ",
     "Claims": 7,
     "claimsPerMonth": 1,
-    "Mean": 0.00017,
-    "Standard Deviation": 23.652
+    "mean": 0.00017,
+    "stDev": 23.652
   },
   {
     "apCode": "VPS",
     "Claims": 33,
     "claimsPerMonth": 3,
-    "Mean": 0.00079,
-    "Standard Deviation": 23.65
+    "mean": 0.00079,
+    "stDev": 23.65
   },
   {
     "apCode": "CWA",
     "Claims": 12,
     "claimsPerMonth": 1,
-    "Mean": 0.00029,
-    "Standard Deviation": 23.652
+    "mean": 0.00029,
+    "stDev": 23.652
   },
   {
     "apCode": "GTF",
     "Claims": 17,
     "claimsPerMonth": 1,
-    "Mean": 0.00041,
-    "Standard Deviation": 23.652
+    "mean": 0.00041,
+    "stDev": 23.652
   },
   {
     "apCode": "PVC",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "OAJ",
     "Claims": 11,
     "claimsPerMonth": 1,
-    "Mean": 0.00026,
-    "Standard Deviation": 23.652
+    "mean": 0.00026,
+    "stDev": 23.652
   },
   {
     "apCode": "ALS",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "HDQ",
     "Claims": 7,
     "claimsPerMonth": 1,
-    "Mean": 0.00017,
-    "Standard Deviation": 23.652
+    "mean": 0.00017,
+    "stDev": 23.652
   },
   {
     "apCode": "CAE",
     "Claims": 20,
     "claimsPerMonth": 2,
-    "Mean": 0.00048,
-    "Standard Deviation": 23.651
+    "mean": 0.00048,
+    "stDev": 23.651
   },
   {
     "apCode": "EAU",
     "Claims": 6,
     "claimsPerMonth": 1,
-    "Mean": 0.00014,
-    "Standard Deviation": 23.652
+    "mean": 0.00014,
+    "stDev": 23.652
   },
   {
     "apCode": "OTZ",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "WYS",
     "Claims": 4,
     "claimsPerMonth": 0,
-    "Mean": 0.0001,
-    "Standard Deviation": 23.652
+    "mean": 0.0001,
+    "stDev": 23.652
   },
   {
     "apCode": "FLO",
     "Claims": 3,
     "claimsPerMonth": 0,
-    "Mean": 0.00007,
-    "Standard Deviation": 23.652
+    "mean": 0.00007,
+    "stDev": 23.652
   },
   {
     "apCode": "RDM",
     "Claims": 19,
     "claimsPerMonth": 2,
-    "Mean": 0.00046,
-    "Standard Deviation": 23.651
+    "mean": 0.00046,
+    "stDev": 23.651
   },
   {
     "apCode": "MVY",
     "Claims": 7,
     "claimsPerMonth": 1,
-    "Mean": 0.00017,
-    "Standard Deviation": 23.652
+    "mean": 0.00017,
+    "stDev": 23.652
   },
   {
     "apCode": "EAR",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "SCK",
     "Claims": 12,
     "claimsPerMonth": 1,
-    "Mean": 0.00029,
-    "Standard Deviation": 23.652
+    "mean": 0.00029,
+    "stDev": 23.652
   },
   {
     "apCode": "GCC",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "JST",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "FOD",
     "Claims": 3,
     "claimsPerMonth": 0,
-    "Mean": 0.00007,
-    "Standard Deviation": 23.652
+    "mean": 0.00007,
+    "stDev": 23.652
   },
   {
     "apCode": "YAK",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "MHK",
     "Claims": 7,
     "claimsPerMonth": 1,
-    "Mean": 0.00017,
-    "Standard Deviation": 23.652
+    "mean": 0.00017,
+    "stDev": 23.652
   },
   {
     "apCode": "MCW",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "BFF",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "BRD",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "PUB",
     "Claims": 3,
     "claimsPerMonth": 0,
-    "Mean": 0.00007,
-    "Standard Deviation": 23.652
+    "mean": 0.00007,
+    "stDev": 23.652
   },
   {
     "apCode": "CSG",
     "Claims": 8,
     "claimsPerMonth": 1,
-    "Mean": 0.00019,
-    "Standard Deviation": 23.652
+    "mean": 0.00019,
+    "stDev": 23.652
   },
   {
     "apCode": "EKO",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "GGG",
     "Claims": 4,
     "claimsPerMonth": 0,
-    "Mean": 0.0001,
-    "Standard Deviation": 23.652
+    "mean": 0.0001,
+    "stDev": 23.652
   },
   {
     "apCode": "MOT",
     "Claims": 8,
     "claimsPerMonth": 1,
-    "Mean": 0.00019,
-    "Standard Deviation": 23.652
+    "mean": 0.00019,
+    "stDev": 23.652
   },
   {
     "apCode": "UNV",
     "Claims": 9,
     "claimsPerMonth": 1,
-    "Mean": 0.00022,
-    "Standard Deviation": 23.652
+    "mean": 0.00022,
+    "stDev": 23.652
   },
   {
     "apCode": "MGW",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "PLB",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "UTA",
     "Claims": 4,
     "claimsPerMonth": 0,
-    "Mean": 0.0001,
-    "Standard Deviation": 23.652
+    "mean": 0.0001,
+    "stDev": 23.652
   },
   {
     "apCode": "SPI",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "HLN",
     "Claims": 5,
     "claimsPerMonth": 0,
-    "Mean": 0.00012,
-    "Standard Deviation": 23.652
+    "mean": 0.00012,
+    "stDev": 23.652
   },
   {
     "apCode": "ALO",
     "Claims": 7,
     "claimsPerMonth": 1,
-    "Mean": 0.00017,
-    "Standard Deviation": 23.652
+    "mean": 0.00017,
+    "stDev": 23.652
   },
   {
     "apCode": "FSM",
     "Claims": 3,
     "claimsPerMonth": 0,
-    "Mean": 0.00007,
-    "Standard Deviation": 23.652
+    "mean": 0.00007,
+    "stDev": 23.652
   },
   {
     "apCode": "JAC",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "MEI",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "ESC",
     "Claims": 4,
     "claimsPerMonth": 0,
-    "Mean": 0.0001,
-    "Standard Deviation": 23.652
+    "mean": 0.0001,
+    "stDev": 23.652
   },
   {
     "apCode": "AIA",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "LWB",
     "Claims": 3,
     "claimsPerMonth": 0,
-    "Mean": 0.00007,
-    "Standard Deviation": 23.652
+    "mean": 0.00007,
+    "stDev": 23.652
   },
   {
     "apCode": "SUN",
     "Claims": 3,
     "claimsPerMonth": 0,
-    "Mean": 0.00007,
-    "Standard Deviation": 23.652
+    "mean": 0.00007,
+    "stDev": 23.652
   },
   {
     "apCode": "LAN",
     "Claims": 9,
     "claimsPerMonth": 1,
-    "Mean": 0.00022,
-    "Standard Deviation": 23.652
+    "mean": 0.00022,
+    "stDev": 23.652
   },
   {
     "apCode": "JHM",
     "Claims": 4,
     "claimsPerMonth": 0,
-    "Mean": 0.0001,
-    "Standard Deviation": 23.652
+    "mean": 0.0001,
+    "stDev": 23.652
   },
   {
     "apCode": "TSA",
     "Claims": 4,
     "claimsPerMonth": 0,
-    "Mean": 0.0001,
-    "Standard Deviation": 23.652
+    "mean": 0.0001,
+    "stDev": 23.652
   },
   {
     "apCode": "SAW",
     "Claims": 4,
     "claimsPerMonth": 0,
-    "Mean": 0.0001,
-    "Standard Deviation": 23.652
+    "mean": 0.0001,
+    "stDev": 23.652
   },
   {
     "apCode": "MBS",
     "Claims": 3,
     "claimsPerMonth": 0,
-    "Mean": 0.00007,
-    "Standard Deviation": 23.652
+    "mean": 0.00007,
+    "stDev": 23.652
   },
   {
     "apCode": "CYS",
     "Claims": 6,
     "claimsPerMonth": 1,
-    "Mean": 0.00014,
-    "Standard Deviation": 23.652
+    "mean": 0.00014,
+    "stDev": 23.652
   },
   {
     "apCode": "DVL",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "FAY",
     "Claims": 5,
     "claimsPerMonth": 0,
-    "Mean": 0.00012,
-    "Standard Deviation": 23.652
+    "mean": 0.00012,
+    "stDev": 23.652
   },
   {
     "apCode": "JLN",
     "Claims": 3,
     "claimsPerMonth": 0,
-    "Mean": 0.00007,
-    "Standard Deviation": 23.652
+    "mean": 0.00007,
+    "stDev": 23.652
   },
   {
     "apCode": "ACV",
     "Claims": 3,
     "claimsPerMonth": 0,
-    "Mean": 0.00007,
-    "Standard Deviation": 23.652
+    "mean": 0.00007,
+    "stDev": 23.652
   },
   {
     "apCode": "MCE",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "MSL",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "DUJ",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "SHR",
     "Claims": 5,
     "claimsPerMonth": 0,
-    "Mean": 0.00012,
-    "Standard Deviation": 23.652
+    "mean": 0.00012,
+    "stDev": 23.652
   },
   {
     "apCode": "SUX",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "SHD",
     "Claims": 3,
     "claimsPerMonth": 0,
-    "Mean": 0.00007,
-    "Standard Deviation": 23.652
+    "mean": 0.00007,
+    "stDev": 23.652
   },
   {
     "apCode": "RIW",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "GCK",
     "Claims": 4,
     "claimsPerMonth": 0,
-    "Mean": 0.0001,
-    "Standard Deviation": 23.652
+    "mean": 0.0001,
+    "stDev": 23.652
   },
   {
     "apCode": "CRQ",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "GRI",
     "Claims": 4,
     "claimsPerMonth": 0,
-    "Mean": 0.0001,
-    "Standard Deviation": 23.652
+    "mean": 0.0001,
+    "stDev": 23.652
   },
   {
     "apCode": "LAL",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "PFN",
     "Claims": 11,
     "claimsPerMonth": 1,
-    "Mean": 0.00026,
-    "Standard Deviation": 23.652
+    "mean": 0.00026,
+    "stDev": 23.652
   },
   {
     "apCode": "BHB",
     "Claims": 3,
     "claimsPerMonth": 0,
-    "Mean": 0.00007,
-    "Standard Deviation": 23.652
+    "mean": 0.00007,
+    "stDev": 23.652
   },
   {
     "apCode": "BET",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "CDV",
     "Claims": 3,
     "claimsPerMonth": 0,
-    "Mean": 0.00007,
-    "Standard Deviation": 23.652
+    "mean": 0.00007,
+    "stDev": 23.652
   },
   {
     "apCode": "GLH",
     "Claims": 4,
     "claimsPerMonth": 0,
-    "Mean": 0.0001,
-    "Standard Deviation": 23.652
+    "mean": 0.0001,
+    "stDev": 23.652
   },
   {
     "apCode": "IMT",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "CIU",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "IRK",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "LBE",
     "Claims": 20,
     "claimsPerMonth": 2,
-    "Mean": 0.00048,
-    "Standard Deviation": 23.651
+    "mean": 0.00048,
+    "stDev": 23.651
   },
   {
     "apCode": "OGS",
     "Claims": 3,
     "claimsPerMonth": 0,
-    "Mean": 0.00007,
-    "Standard Deviation": 23.652
+    "mean": 0.00007,
+    "stDev": 23.652
   },
   {
     "apCode": "DIK",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "RKD",
     "Claims": 3,
     "claimsPerMonth": 0,
-    "Mean": 0.00007,
-    "Standard Deviation": 23.652
+    "mean": 0.00007,
+    "stDev": 23.652
   },
   {
     "apCode": "TXK",
     "Claims": 3,
     "claimsPerMonth": 0,
-    "Mean": 0.00007,
-    "Standard Deviation": 23.652
+    "mean": 0.00007,
+    "stDev": 23.652
   },
   {
     "apCode": "PVU",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "ZZZ",
     "Claims": 9,
     "claimsPerMonth": 1,
-    "Mean": 0.00022,
-    "Standard Deviation": 23.652
+    "mean": 0.00022,
+    "stDev": 23.652
   },
   {
     "apCode": "PAH",
     "Claims": 3,
     "claimsPerMonth": 0,
-    "Mean": 0.00007,
-    "Standard Deviation": 23.652
+    "mean": 0.00007,
+    "stDev": 23.652
   },
   {
     "apCode": "PKB",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "DRT",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "CDC",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "OWB",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "RUT",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "ATY",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "VIS",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "ART",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "FKL",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "DBQ",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "TTN",
     "Claims": 5,
     "claimsPerMonth": 0,
-    "Mean": 0.00012,
-    "Standard Deviation": 23.652
+    "mean": 0.00012,
+    "stDev": 23.652
   },
   {
     "apCode": "ALW",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "HGR",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "PQI",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "CDR",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "BRL",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "OLF",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "PIR",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "JHW",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "GYY",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "ROW",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "CIC",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "DRO",
     "Claims": 4,
     "claimsPerMonth": 0,
-    "Mean": 0.0001,
-    "Standard Deviation": 23.652
+    "mean": 0.0001,
+    "stDev": 23.652
   },
   {
     "apCode": "SOW",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "ENA",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "PMD",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "HOM",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "GBD",
     "Claims": 2,
     "claimsPerMonth": 0,
-    "Mean": 0.00005,
-    "Standard Deviation": 23.652
+    "mean": 0.00005,
+    "stDev": 23.652
   },
   {
     "apCode": "ILG",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "MWA",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "TWF",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "CEZ",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "PDT",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   },
   {
     "apCode": "BLV",
     "Claims": 1,
     "claimsPerMonth": 0,
-    "Mean": 0.00002,
-    "Standard Deviation": 23.652
+    "mean": 0.00002,
+    "stDev": 23.652
   }
 ]
