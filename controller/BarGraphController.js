@@ -47,13 +47,8 @@ app.controller('BarGraphController', [
         tooltip: {
           contentGenerator: function(d) {
             console.log(d.data)
-            // var container = document.createElement("div");
-            // var h3 = document.createElement("h3");
-            // var stH3 = document.createElement("h3");
-            // stH3.textContent = d.data.stDev;
-            // h3.textContent = d.data.Mean;
-            // container.appendChild(h3);
-            var mean = "Mean: " + d.data.Mean;
+            //Remember to put in Airport code to help with navigation
+            var mean = "Mean: " + d.data.mean;
             var stDev = "Standard deviation: " + d.data.stDev;
             return mean + "\n" + stDev;
           }
