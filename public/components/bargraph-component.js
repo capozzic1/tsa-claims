@@ -1,8 +1,8 @@
 app.component('bargraph', {
-  templateUrl: "views/BarGraph.template.html",
+  templateUrl: "views/bargraph.template.html",
   controller: function($scope, ClaimService, $filter) {
     console.log(ClaimService)
-    $scope.data1 = [];
+
     $scope.getData = (function() {
       ClaimService.getData("bargraph").then(function(data) {
         //console.log(data)
