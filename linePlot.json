@@ -1,0 +1,718 @@
+[
+  {
+    "airlineName": "Delta Air Lines",
+    "monthlyLoss": 458856.38
+  },
+  {
+    "airlineName": "Unnamed Airline",
+    "monthlyLoss": 380139.2
+  },
+  {
+    "airlineName": "Southwest Airlines",
+    "monthlyLoss": 358010.38
+  },
+  {
+    "airlineName": "UAL",
+    "monthlyLoss": 307360.36
+  },
+  {
+    "airlineName": "American Airlines",
+    "monthlyLoss": 296552.5
+  },
+  {
+    "airlineName": "USAir",
+    "monthlyLoss": 161940.2
+  },
+  {
+    "airlineName": "Jet Blue",
+    "monthlyLoss": 131257.6
+  },
+  {
+    "airlineName": "Continental Airlines",
+    "monthlyLoss": 114641.86
+  },
+  {
+    "airlineName": "Alaska Airlines",
+    "monthlyLoss": 104456.96
+  },
+  {
+    "airlineName": "AirTran Airlines",
+    "monthlyLoss": 60612.94
+  },
+  {
+    "airlineName": "Frontier Airlines",
+    "monthlyLoss": 46672.96
+  },
+  {
+    "airlineName": "British Airways",
+    "monthlyLoss": 28602.53
+  },
+  {
+    "airlineName": "Spirit Airlines",
+    "monthlyLoss": 28239.85
+  },
+  {
+    "airlineName": "Virgin America",
+    "monthlyLoss": 27838.19
+  },
+  {
+    "airlineName": "Hawaiian Airlines",
+    "monthlyLoss": 25847.92
+  },
+  {
+    "airlineName": "Allegiant Air",
+    "monthlyLoss": 22595.11
+  },
+  {
+    "airlineName": "Lufthansa",
+    "monthlyLoss": 22262.33
+  },
+  {
+    "airlineName": "Virgin Atlantic",
+    "monthlyLoss": 19974.61
+  },
+  {
+    "airlineName": "Air Canada",
+    "monthlyLoss": 15834.98
+  },
+  {
+    "airlineName": "Westjet Airlines Ltd",
+    "monthlyLoss": 15529.99
+  },
+  {
+    "airlineName": "Cathay Pacific - CX",
+    "monthlyLoss": 12634.35
+  },
+  {
+    "airlineName": "Asiana Airlines",
+    "monthlyLoss": 9394.82
+  },
+  {
+    "airlineName": "Qantus Airways",
+    "monthlyLoss": 8201.94
+  },
+  {
+    "airlineName": "Turkish Airlines",
+    "monthlyLoss": 7098.96
+  },
+  {
+    "airlineName": "Emirates",
+    "monthlyLoss": 6005.36
+  },
+  {
+    "airlineName": "Korean Airlines",
+    "monthlyLoss": 5894.77
+  },
+  {
+    "airlineName": "Carribean Airlines",
+    "monthlyLoss": 5796.04
+  },
+  {
+    "airlineName": "Singapore Airlines",
+    "monthlyLoss": 5562.48
+  },
+  {
+    "airlineName": "TAM airlines",
+    "monthlyLoss": 5277.45
+  },
+  {
+    "airlineName": "Scandinavian Airlines Systems",
+    "monthlyLoss": 5178.67
+  },
+  {
+    "airlineName": "Iberia Airlines",
+    "monthlyLoss": 4731.5
+  },
+  {
+    "airlineName": "Air France",
+    "monthlyLoss": 4539.28
+  },
+  {
+    "airlineName": "Horizon Air",
+    "monthlyLoss": 4257.66
+  },
+  {
+    "airlineName": "Sun Country Airlines Inc",
+    "monthlyLoss": 3695.43
+  },
+  {
+    "airlineName": "EL AL Israeli Airlines",
+    "monthlyLoss": 3541.63
+  },
+  {
+    "airlineName": "Swiss Air",
+    "monthlyLoss": 3440.14
+  },
+  {
+    "airlineName": "Alitalia",
+    "monthlyLoss": 3133.23
+  },
+  {
+    "airlineName": "Volaris Airlines",
+    "monthlyLoss": 3130.38
+  },
+  {
+    "airlineName": "Air Berlin",
+    "monthlyLoss": 2999.23
+  },
+  {
+    "airlineName": "EVA airlines",
+    "monthlyLoss": 2892.54
+  },
+  {
+    "airlineName": "Austrian Airlines",
+    "monthlyLoss": 2619.86
+  },
+  {
+    "airlineName": "Iceland Air",
+    "monthlyLoss": 2538.29
+  },
+  {
+    "airlineName": "Aero Mexico",
+    "monthlyLoss": 2390.28
+  },
+  {
+    "airlineName": "Copa Airlines",
+    "monthlyLoss": 2304.27
+  },
+  {
+    "airlineName": "American Eagle",
+    "monthlyLoss": 2298.97
+  },
+  {
+    "airlineName": "Northwest Airlines",
+    "monthlyLoss": 2251.07
+  },
+  {
+    "airlineName": "Lan Airlines",
+    "monthlyLoss": 2219.43
+  },
+  {
+    "airlineName": "Philippine Airlines",
+    "monthlyLoss": 2212.05
+  },
+  {
+    "airlineName": "Avianca",
+    "monthlyLoss": 2098.37
+  },
+  {
+    "airlineName": "Air India",
+    "monthlyLoss": 2075.79
+  },
+  {
+    "airlineName": "Aero Flot",
+    "monthlyLoss": 1948.57
+  },
+  {
+    "airlineName": "KLM Royal Dutch Airlines",
+    "monthlyLoss": 1815.08
+  },
+  {
+    "airlineName": "Arik Airlines",
+    "monthlyLoss": 1757.22
+  },
+  {
+    "airlineName": "vivaAerobus",
+    "monthlyLoss": 1715.53
+  },
+  {
+    "airlineName": "Direct Air",
+    "monthlyLoss": 1661.87
+  },
+  {
+    "airlineName": "Thai Airways",
+    "monthlyLoss": 1578.2
+  },
+  {
+    "airlineName": "Qatar airlines",
+    "monthlyLoss": 1502.68
+  },
+  {
+    "airlineName": "Midwest Express Airlines",
+    "monthlyLoss": 1486.5
+  },
+  {
+    "airlineName": "TAP Portugal",
+    "monthlyLoss": 1478.09
+  },
+  {
+    "airlineName": "Etihad Airways",
+    "monthlyLoss": 1476.83
+  },
+  {
+    "airlineName": "Island Air",
+    "monthlyLoss": 1405.69
+  },
+  {
+    "airlineName": "Jet Airways",
+    "monthlyLoss": 1169.82
+  },
+  {
+    "airlineName": "V Australia",
+    "monthlyLoss": 1129.36
+  },
+  {
+    "airlineName": "Western Pacific Airlines Inc Westpac",
+    "monthlyLoss": 1116.19
+  },
+  {
+    "airlineName": "Air Pacific",
+    "monthlyLoss": 1108.3
+  },
+  {
+    "airlineName": "Porter Airlines",
+    "monthlyLoss": 1045.33
+  },
+  {
+    "airlineName": "South African Airways",
+    "monthlyLoss": 1037.9
+  },
+  {
+    "airlineName": "Cape Air",
+    "monthlyLoss": 923.81
+  },
+  {
+    "airlineName": "TACA airlines",
+    "monthlyLoss": 871.45
+  },
+  {
+    "airlineName": "Mesa Airlines",
+    "monthlyLoss": 836.33
+  },
+  {
+    "airlineName": "Aeroflot Russian International",
+    "monthlyLoss": 832.98
+  },
+  {
+    "airlineName": "Skywest Airlines Inc USA",
+    "monthlyLoss": 824.43
+  },
+  {
+    "airlineName": "Air China",
+    "monthlyLoss": 796.05
+  },
+  {
+    "airlineName": "US Express",
+    "monthlyLoss": 675.74
+  },
+  {
+    "airlineName": "Vision Airlines",
+    "monthlyLoss": 671
+  },
+  {
+    "airlineName": "Japan Airlines",
+    "monthlyLoss": 655.84
+  },
+  {
+    "airlineName": "OMNI Air Express- (OY)",
+    "monthlyLoss": 648.96
+  },
+  {
+    "airlineName": "Aer Lingus",
+    "monthlyLoss": 581.98
+  },
+  {
+    "airlineName": "Mexicana",
+    "monthlyLoss": 562.34
+  },
+  {
+    "airlineName": "Ethopian Airlines",
+    "monthlyLoss": 556.43
+  },
+  {
+    "airlineName": "Virgin Express",
+    "monthlyLoss": 552.5
+  },
+  {
+    "airlineName": "Transaero Airlines",
+    "monthlyLoss": 547.4
+  },
+  {
+    "airlineName": "Kuwait Airlines",
+    "monthlyLoss": 525
+  },
+  {
+    "airlineName": "Hainan Airlines",
+    "monthlyLoss": 500
+  },
+  {
+    "airlineName": "China Eastern Airlines",
+    "monthlyLoss": 495.97
+  },
+  {
+    "airlineName": "SunWing Airlines",
+    "monthlyLoss": 442
+  },
+  {
+    "airlineName": "Great Lakes Airline",
+    "monthlyLoss": 404.19
+  },
+  {
+    "airlineName": "Royal Dutch Airlines",
+    "monthlyLoss": 400.99
+  },
+  {
+    "airlineName": "Saudi Arabian Airlines",
+    "monthlyLoss": 399
+  },
+  {
+    "airlineName": "Aerolineas Argentinas",
+    "monthlyLoss": 396.43
+  },
+  {
+    "airlineName": "KLM Royal Dutch Airlines",
+    "monthlyLoss": 394.68
+  },
+  {
+    "airlineName": "Air Jamaica",
+    "monthlyLoss": 385.58
+  },
+  {
+    "airlineName": "Condor Air",
+    "monthlyLoss": 383.79
+  },
+  {
+    "airlineName": "All Nippon Airways",
+    "monthlyLoss": 371.17
+  },
+  {
+    "airlineName": "Royal Jordanian Airline",
+    "monthlyLoss": 370
+  },
+  {
+    "airlineName": "JALways Airlines",
+    "monthlyLoss": 346.98
+  },
+  {
+    "airlineName": "Air Europa",
+    "monthlyLoss": 332.65
+  },
+  {
+    "airlineName": "China Airlines",
+    "monthlyLoss": 329.5
+  },
+  {
+    "airlineName": "XL Airways",
+    "monthlyLoss": 324
+  },
+  {
+    "airlineName": "America Trans Air",
+    "monthlyLoss": 307.09
+  },
+  {
+    "airlineName": "Croatia Airlines",
+    "monthlyLoss": 279.95
+  },
+  {
+    "airlineName": "Delta (Song)",
+    "monthlyLoss": 244.21
+  },
+  {
+    "airlineName": "Egypt Air",
+    "monthlyLoss": 236
+  },
+  {
+    "airlineName": "Southeast Airlines",
+    "monthlyLoss": 220.94
+  },
+  {
+    "airlineName": "LOT Polish Airlines",
+    "monthlyLoss": 213.56
+  },
+  {
+    "airlineName": "Pace Airlines",
+    "monthlyLoss": 169.99
+  },
+  {
+    "airlineName": "Continental Express Inc",
+    "monthlyLoss": 161.28
+  },
+  {
+    "airlineName": "America West",
+    "monthlyLoss": 152.96
+  },
+  {
+    "airlineName": "Aeromar",
+    "monthlyLoss": 150.73
+  },
+  {
+    "airlineName": "Santa Barbara Airlines",
+    "monthlyLoss": 146.87
+  },
+  {
+    "airlineName": "Air New Zealand",
+    "monthlyLoss": 124.12
+  },
+  {
+    "airlineName": "USA 3000 (U5)",
+    "monthlyLoss": 104.98
+  },
+  {
+    "airlineName": "Polish Airlines",
+    "monthlyLoss": 94.82
+  },
+  {
+    "airlineName": "Monarch Airlines Ltd",
+    "monthlyLoss": 83.48
+  },
+  {
+    "airlineName": "Bahama Airlines",
+    "monthlyLoss": 80
+  },
+  {
+    "airlineName": "Sata",
+    "monthlyLoss": 74.5
+  },
+  {
+    "airlineName": "Air New Zealand",
+    "monthlyLoss": 70
+  },
+  {
+    "airlineName": "Air Tahiti Nui",
+    "monthlyLoss": 70
+  },
+  {
+    "airlineName": "Comair Inc",
+    "monthlyLoss": 65.88
+  },
+  {
+    "airlineName": "Thomas Cook Airline",
+    "monthlyLoss": 56.38
+  },
+  {
+    "airlineName": "Pakistan International Airlines Cor",
+    "monthlyLoss": 55
+  },
+  {
+    "airlineName": "Aerolitoral",
+    "monthlyLoss": 48
+  },
+  {
+    "airlineName": "CanJet",
+    "monthlyLoss": 39
+  },
+  {
+    "airlineName": "Skywest Airlines Australia",
+    "monthlyLoss": 38
+  },
+  {
+    "airlineName": "Webjet",
+    "monthlyLoss": 35
+  },
+  {
+    "airlineName": "ERA aviation Air",
+    "monthlyLoss": 34.6
+  },
+  {
+    "airlineName": "Air Belgium International S A",
+    "monthlyLoss": 29.37
+  },
+  {
+    "airlineName": "Finnair",
+    "monthlyLoss": 24.95
+  },
+  {
+    "airlineName": "Frontier Aviation Inc",
+    "monthlyLoss": 20
+  },
+  {
+    "airlineName": "Seaborne Airlines",
+    "monthlyLoss": 15
+  },
+  {
+    "airlineName": "Indian Airlines",
+    "monthlyLoss": 12.99
+  },
+  {
+    "airlineName": "Malaysian Airline System",
+    "monthlyLoss": 12.5
+  },
+  {
+    "airlineName": "ATA Aerocondor",
+    "monthlyLoss": 8.95
+  },
+  {
+    "airlineName": "Aero Costa Rica",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Aero Lineas Mexicanas J S S A De C V",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Aero Peru",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "AeroGal",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Aerosvit Airlines",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Air 2000 Ltd Great Britain",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Air Afrique",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Air Atlanta Icelandic",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Air Ukraine International",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Aires Airline",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Aloha Airlines",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "American Central",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Arika Isreali Airlines",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Aviaco",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Aviation Advantage Inc",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Brit Air",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Cameroon Airlines",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Canadian Airlines",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Cayman Airlines",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "China Southern Airlines",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Cubana",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Eurowings",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Go",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Guyana Airways Corporation",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "JAT",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Kuwait Airways",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Liat Airlines",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Malev Hungarian Airlines",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Martinair",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Maxair",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Middle East Airlines",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Midway Airlines",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Montair Aviation Inc",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "North American Airlines",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Pacific Southwest Airlines Inc",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Pan American Airways Corp.",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Reno Air",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Royal Air Maroc",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Ryan Air",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Silverjet",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "SonAir",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Surinam Airways",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Travelspan",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Xtra Airways",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Air Botina",
+    "monthlyLoss": 0
+  },
+  {
+    "airlineName": "Czech Airlines",
+    "monthlyLoss": 0
+  }
+]
