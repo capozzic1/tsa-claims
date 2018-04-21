@@ -1,10 +1,10 @@
 app.component('bargraph', {
-  template: '<div>' + '<h2>Average claims per month</h2>' + "<nvd3 options='options' data='data'></nvd3>" + "</div>",
+  templateUrl: "views/BarGraph.template.html",
   controller: function($scope, ClaimService, $filter) {
     console.log(ClaimService)
     $scope.data1 = [];
     $scope.getData = (function() {
-      ClaimService.getData().then(function(data) {
+      ClaimService.getData("bargraph").then(function(data) {
         //console.log(data)
         data = $filter('orderBy')(data, '-claimsPerMonth')
         console.log(data);
