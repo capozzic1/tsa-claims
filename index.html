@@ -9,7 +9,7 @@
     <script src="bower_components/d3/d3.js"></script>
     <script src="bower_components/nvd3/build/nv.d3.js"></script> <!-- or use another assembly -->
     <script src="bower_components/angular-nvd3/dist/angular-nvd3.js"></script>
-
+ <script src="bower_components/angular-route/angular-route.js"></script>
     <link rel="stylesheet" href="bower_components/nvd3/build/nv.d3.css">
       <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
@@ -22,11 +22,12 @@
    <a href="linechart">Line Chart</a>
   </nav>
 </div>
-
+<bargraph></bargraph>
+<div ng-view></div>
   </body>
 
     <script src="app.js"></script>
 
-  <script src="controller/BarGraphController.js"></script>
+  <script src="controller/bargraph-component.js"></script>
   <script src="services/ClaimService.js"></script>
 </html>
