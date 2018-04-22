@@ -32,7 +32,7 @@ app.component('linechart', {
             color: "blue"
           }
         ]
-
+        console.log($scope.data[0].values)
         debugger;
       })
     })();
@@ -48,7 +48,7 @@ app.component('linechart', {
           //return d[0].values[0].x;
         },
         y: function(d) {
-          return Number(d.y);
+          return d.y
           //return d[0].values.y;
         },
 
@@ -64,8 +64,7 @@ app.component('linechart', {
             var label = $scope.data[0].values[d].label;
             return label;
             //debugger;
-          },
-          axisLabelDistance: 100
+          }
         },
 
         yAxis: {
