@@ -5,15 +5,11 @@ app.component('linechart', {
     $scope.getData = (function() {
 
       ClaimService.getData().then(function(data) {
-        //data[0]["values"] = "yolo";
-        //console.log(data[0]);
+
         var coordinates = [];
-        var airLineName = [];
-        //console.log(data);
 
         var coords;
         for (var i = 0; i < data.length; i++) {
-          //console.log(i)
 
           coords = {
             x: i,
@@ -32,24 +28,23 @@ app.component('linechart', {
             color: "blue"
           }
         ]
-        console.log($scope.data[0].values)
-        debugger;
+
       })
     })();
 
     $scope.options = {
       chart: {
         type: 'lineChart',
-        height: 700,
+        height: 500,
         width: 5000,
         x: function(d) {
-          //console.log(d)
+
           return d.x;
-          //return d[0].values[0].x;
+
         },
         y: function(d) {
           return d.y
-          //return d[0].values.y;
+
         },
 
         color: d3.scale.category10().range(),
@@ -63,7 +58,7 @@ app.component('linechart', {
             console.log(d)
             var label = $scope.data[0].values[d].label;
             return label;
-            //debugger;
+
           }
         },
 
