@@ -34,9 +34,10 @@ app.component('linechart', {
 
     $scope.options = {
       chart: {
+
         type: 'lineChart',
         height: 500,
-        width: 5000,
+        width: 1000,
         x: function(d) {
 
           return d.x;
