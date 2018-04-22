@@ -5,23 +5,26 @@ app.component('linechart', {
     $scope.getData = (function() {
 
       ClaimService.getData().then(function(data) {
-        console.log(data)
-        $scope.data = [
-          {
-            key: "Test1",
-            values: [2, 3, 4]
-          }, {
-            key: "Test2",
-            values: [2, 3, 4]
-          }
-        ]
+        data[0]["values"] = "yolo";
+        //console.log(data[0]);
+        var newData = [];
+
+        for (var i = 0; i < data.length; i++) {
+          data[i]["values"] = {
+            x: i,
+            y: data[i].monthlyLoss
+          };
+        }
+        //console.log(newData)
+
+        $scope.data = [data]
       })
     })();
 
     $scope.options = {
       chart: {
-        type: 'cumulativeLineChart',
-        height: 2000,
+        type: 'lineChart',
+        height: 500,
         margin: {
           top: 20,
           right: 20,
@@ -29,10 +32,10 @@ app.component('linechart', {
           left: 65
         },
         x: function(d) {
-          //return d.monthlyLoss
+          return d.x;
         },
         y: function(d) {
-          //return d
+          return d.y;
         },
 
         color: d3.scale.category10().range(),
