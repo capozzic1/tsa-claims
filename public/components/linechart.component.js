@@ -16,10 +16,8 @@ app.component('linechart', {
           };
         }
         console.log(data)
-        debugger;
-        $scope.data = [{
-            data
-          }]
+
+        $scope.data = data
       })
     })();
 
@@ -34,10 +32,10 @@ app.component('linechart', {
           left: 65
         },
         x: function(d) {
-          return d.x;
+          return d.values.x;
         },
         y: function(d) {
-          return d.monthlyLoss;
+          return d.values.y;
         },
 
         color: d3.scale.category10().range(),

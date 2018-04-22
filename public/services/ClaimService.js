@@ -5,7 +5,7 @@ function ClaimService($http, $q) {
     getData: function(dataType) {
       var url = dataType === "bargraph"
         ? "https://raw.githubusercontent.com/capozzic1/tsa-claims/master/claimsv3.json"
-        : "https://raw.githubusercontent.com/capozzic1/tsa-claims/master/linePlot.json";
+        : "https://raw.githubusercontent.com/capozzic1/tsa-claims/master/linePlot2.json";
       return $q(function(resolve, reject) {
         $http.get(url).then(function(data) {
           resolve(data.data)
