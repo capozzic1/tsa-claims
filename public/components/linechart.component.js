@@ -10,14 +10,14 @@ app.component('linechart', {
 
         var coords;
         for (var i = 0; i < data.length; i++) {
-
-          coords = {
-            x: i,
-            y: data[i].monthlyLoss,
-            label: data[i].key
-          }
-
-          coordinates.push(coords);
+          console.log(data[0].monthlyLoss)
+          // coords = {
+          //   x: i,
+          //   y: parseInt(data[i].monthlyLoss, 10),
+          //   label: data[i].key
+          // }
+          //  console.log(coords.y)
+          // coordinates.push(coords);
 
         }
 
@@ -28,7 +28,7 @@ app.component('linechart', {
             color: "blue"
           }
         ]
-
+        //console.log(coordinates)
       })
     })();
 
@@ -36,8 +36,8 @@ app.component('linechart', {
       chart: {
 
         type: 'lineChart',
-        height: 500,
-        width: 1000,
+        height: 1000,
+        width: 5000,
         x: function(d) {
 
           return d.x;
@@ -56,9 +56,9 @@ app.component('linechart', {
         xAxis: {
           axisLabel: "Monthly loss",
           tickFormat: function(d) {
-            console.log(d)
-            var label = $scope.data[0].values[d].label;
-            return label;
+
+            // var label = $scope.data[0].values[d].label;
+            // return label;
 
           }
         },
