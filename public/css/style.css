@@ -18,3 +18,21 @@ padding-left: 16px;
 .avg-claims, .monthly-loss{
   margin-top: 1em;
 }
+
+form input, label {
+  display:inline-block;
+      margin-left: 10px;
+}
+
+.add-bar-data {
+    margin-top: 2em;
+}
+
+.submit-bar {
+  background: #38403F;
+  color: #0ed0ff;
+  font-size: 20px;
+  padding: 10px;
+  border: none;
+  width: 100px;
+}
