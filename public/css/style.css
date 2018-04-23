@@ -5,10 +5,12 @@
     align-items: center;
     background: #38403F;
 }
-
+body {
+  font-family: 'Open Sans', sans-serif;
+}
 nav a {
     color: #0ed0ff;
-    font-family: 'Open Sans', sans-serif;
+
     font-size: 30px;
 padding-left: 16px;
 }

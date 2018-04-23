@@ -36,7 +36,7 @@ app.component('linechart', {
       chart: {
 
         type: 'lineChart',
-        height: 700,
+        height: 600,
         width: 2500,
         x: function(d) {
 
@@ -69,6 +69,9 @@ app.component('linechart', {
           axisLabel: 'Monthly loss',
 
           axisLabelDistance: 0
+        },
+        yTickFormat: function(d) {
+          return d3.format('$')(d);
         }
       }
     };
