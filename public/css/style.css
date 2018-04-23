@@ -35,4 +35,5 @@ form input, label {
   padding: 10px;
   border: none;
   width: 100px;
+  font-weight: 800;
 }

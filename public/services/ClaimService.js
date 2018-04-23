@@ -1,5 +1,7 @@
 app.service('ClaimService', ClaimService);
-
+//Gets data from my github api from my github. There's 2 data sets, one for each chart.
+//If its a bar graph, get the bar graph data, else get the line chart data
+//Returns a promise
 function ClaimService($http, $q) {
   return {
     getData: function(dataType) {

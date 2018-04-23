@@ -1,7 +1,9 @@
+//Component for the line chart
 app.component('linechart', {
   templateUrl: 'views/linechart.template.html',
   controller: function($scope, ClaimService) {
     $scope.data = [];
+    //Gets data from the claim service
     $scope.getData = (function() {
 
       ClaimService.getData().then(function(data) {
@@ -9,14 +11,15 @@ app.component('linechart', {
         var coordinates = [];
 
         var coords;
+        //make coordinates for the line chart
         for (var i = 0; i < data.length; i++) {
-          //console.log(parseInt(data[0].monthlyLoss))
+
           coords = {
             x: i,
             y: parseInt(data[i].monthlyLoss, 10),
             label: data[i].key
           }
-          //  console.log(coords.y)
+
           coordinates.push(coords);
 
         }
@@ -28,7 +31,7 @@ app.component('linechart', {
             color: "blue"
           }
         ]
-        //console.log(coordinates)
+
       })
     })();
 

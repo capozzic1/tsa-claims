@@ -1,3 +1,4 @@
+//Component for the bar graph
 app.component('bargraph', {
   templateUrl: "views/bargraph.template.html",
   controller: [
@@ -12,7 +13,7 @@ app.component('bargraph', {
         mean: null,
         stDev: null
       };
-
+      //adds data to the bar graph
       $scope.addData = function() {
         $scope.data[0].values.push($scope.newData);
 
@@ -31,10 +32,10 @@ app.component('bargraph', {
         }
 
       }
-
+      //gets data from the claim service
       $scope.getData = (function() {
         ClaimService.getData("bargraph").then(function(data) {
-          //console.log(data)
+
           data = $scope.sort(data);
 
           $scope.data = [
@@ -45,13 +46,9 @@ app.component('bargraph', {
             }
           ]
 
-          console.log($scope.data[0]);
-
-          //{apCode: "JFK", claimsPerMonth: 237, mean: 0.06825, stDev: 26.231}
-
         })
       })()
-
+      //options for angular nvd3's bar graph
       $scope.options = {
         chart: {
           type: 'multiBarHorizontalChart',
@@ -75,13 +72,17 @@ app.component('bargraph', {
               return d3.format(',.2f')(d);
             }
           },
+          //custom tooltip content
           tooltip: {
             contentGenerator: function(d) {
               console.log(d.data)
-              //Remember to put in Airport code to help with navigation
+
+              var apCode = "Airport code: " + d.data.apCode;
               var mean = "Mean: " + d.data.mean;
               var stDev = "Standard deviation: " + d.data.stDev;
-              return mean + "\n" + stDev;
+
+              var htmlString = "<div><h4>" + apCode + "</h4>" + "<h4>" + mean + "</h4>" + "<h4>" + stDev + "</h4>" + "</div>"
+              return htmlString;
             }
           }
         }
