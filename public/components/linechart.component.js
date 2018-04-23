@@ -23,7 +23,7 @@ app.component('linechart', {
 
         $scope.data = [
           {
-            key: "Refer to X axis for airline names",
+            key: "Monthly loss",
             values: coordinates,
             color: "blue"
           }
@@ -36,8 +36,8 @@ app.component('linechart', {
       chart: {
 
         type: 'lineChart',
-        height: 1000,
-        width: 5000,
+        height: 700,
+        width: 2500,
         x: function(d) {
 
           return d.x;
@@ -60,15 +60,16 @@ app.component('linechart', {
             var label = $scope.data[0].values[d].label;
             return label;
 
-          }
+          },
+          staggerLabels: true,
+          axisLabelDistance: 30
         },
 
         yAxis: {
           axisLabel: 'Y Axis',
 
           axisLabelDistance: 0
-        },
-        yDomain: [0, 40000]
+        }
       }
     };
   }
