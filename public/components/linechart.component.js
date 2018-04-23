@@ -66,7 +66,7 @@ app.component('linechart', {
         },
 
         yAxis: {
-          axisLabel: 'Y Axis',
+          axisLabel: 'Monthly loss',
 
           axisLabelDistance: 0
         }
