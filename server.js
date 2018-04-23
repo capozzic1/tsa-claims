@@ -6,9 +6,10 @@ var cors = require('cors');
 app.use(cors());
 app.use(express.static('public'));
 
-// app.get('*', function(req, res) {
-//   res.sendFile(__dirname + '/public/index.html');  load the single view file (angular will handle the page changes on the front-end)
-// });
+app.get('*', function(req, res) {
+  res.sendFile(__dirname + '/public/index.html');
+
+});
 app.listen(port, function() {
   console.log("Listening on port " + port);
 })
