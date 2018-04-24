@@ -13,5 +13,8 @@ Bar graph - Shows monthly claims per month per Airport Code
 Line graph - Shows monthly loss per Airline
 Form to add additional data to the bar graph
 
+Front-end: Bootstrap, basic CSS, JavaScript
+Backend: Express.js
+Chart library: Angular-nvd3
 
-The project is hosted at: http://awato-project.herokuapp.com
+The project is deployed on Heroku: http://awato-project.herokuapp.com
