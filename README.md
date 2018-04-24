@@ -13,6 +13,8 @@ Features:
 * Line graph - Shows monthly loss per Airline
 * Form to add additional data to the bar graph
 
+Tools used:
+
 * Front-end: Bootstrap, basic CSS, JavaScript
 * Backend: Express.js
 * Chart library: Angular-nvd3
