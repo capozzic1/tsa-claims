@@ -6,7 +6,7 @@ var cors = require('cors');
 app.use(cors());
 app.use(express.static('public'));
 app.use('/bower_components', express.static(__dirname + '/bower_components'));
-app.use('/node_modules', express.static(__dirname + '/node_modules'));
+
 app.get('*', function(req, res) {
   res.sendFile(__dirname + '/public/index.html');
 
