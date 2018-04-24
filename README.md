@@ -13,8 +13,8 @@ Features:
 * Line graph - Shows monthly loss per Airline
 * Form to add additional data to the bar graph
 
-Front-end: Bootstrap, basic CSS, JavaScript
-Backend: Express.js
-Chart library: Angular-nvd3
+* Front-end: Bootstrap, basic CSS, JavaScript
+* Backend: Express.js
+* Chart library: Angular-nvd3
 
 The project is deployed on Heroku: http://awato-project.herokuapp.com
