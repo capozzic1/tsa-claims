@@ -1,6 +1,7 @@
 Installation:
 
-"npm install"
+1."npm install"
+2."bower install" for front end dependencies
 
 Usage:
 
