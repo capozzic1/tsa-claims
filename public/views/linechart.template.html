@@ -1,9 +1,9 @@
 <div class="row">
 
-<div class="col-md-12" ng-controller="LineChartController">
+<div class="col-md-12" ng-controller="LineChartController as ctrl">
 
     <h2 class="text-center monthly-loss">Monthly loss separated by Airline</h2>
-    <nvd3 options='options' data='data'></nvd3>
+    <nvd3 options='ctrl.options' data='ctrl.data'></nvd3>
 
 </div>
 </div>
