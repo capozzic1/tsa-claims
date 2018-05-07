@@ -1,4 +1,4 @@
-//Component for the bar graph
+//Controller for the bar graph
 
 export default class BargraphController {
   constructor(ClaimService, $filter) {
