@@ -1,12 +1,12 @@
-<div class="row">
-  <form ng-submit="addData()" class="col-md-11 offset-md-1 add-bar-data">
-  <label>Airport Code:<input type="text" ng-model="newData.apCode"></label>
-    <label>Claims per month:<input type="text" ng-model="newData.claimsPerMonth"></label>
-      <label>Mean:<input type="text" ng-model="newData.mean"></label>
-        <label>Standard deviation:<input type="text" ng-model="newData.stDev"></label>
+<div class="row" ng-controller="BargraphController as ctrl">
+  <form ng-submit="ctrl.addData()" class="col-md-11 offset-md-1 add-bar-data">
+  <label>Airport Code:<input type="text" ng-model="ctrl.newData.apCode"></label>
+    <label>Claims per month:<input type="text" ng-model="ctrl.newData.claimsPerMonth"></label>
+      <label>Mean:<input type="text" ng-model="ctrl.newData.mean"></label>
+        <label>Standard deviation:<input type="text" ng-model="ctrl.newData.stDev"></label>
         <input type="submit" class="submit-bar">
   </form>
-  <div class="col-md-12" ng-controller="BargraphController as ctrl">
+  <div class="col-md-12" >
 <h2 class="text-center avg-claims">Average claims per month per airport</h2>
     <nvd3 options='ctrl.options' data='ctrl.data'></nvd3>
 </div>
