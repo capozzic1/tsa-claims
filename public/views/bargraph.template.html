@@ -6,8 +6,8 @@
         <label>Standard deviation:<input type="text" ng-model="newData.stDev"></label>
         <input type="submit" class="submit-bar">
   </form>
-  <div class="col-md-12">
+  <div class="col-md-12" ng-controller="BargraphController as ctrl">
 <h2 class="text-center avg-claims">Average claims per month per airport</h2>
-    <nvd3 options='options' data='data'></nvd3>
+    <nvd3 options='ctrl.options' data='ctrl.data'></nvd3>
 </div>
 </div>
