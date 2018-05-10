@@ -8,6 +8,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "concurrently \"npm run server\" \"npm run webpack\"",
     "webpack": "./node_modules/.bin/webpack -w",
     "test": "echo \"Error: no test specified\" && exit 1",
     "server": "node server.js",
@@ -19,6 +20,7 @@
     "angular": "^1.6.10",
     "babel-loader": "^7.1.4",
     "bower": "^1.8.4",
+    "concurrently": "^3.5.1",
     "cors": "^2.8.4",
     "css-loader": "^0.28.11",
     "d3": "^3.0.0",

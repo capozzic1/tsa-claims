@@ -43,8 +43,8 @@ export default class LineChartController {
         chart: {
 
           type: 'lineChart',
-          height: 600,
-          width: 2500,
+          height: 500,
+          width: 2700,
           x: (d) => {
 
             return d.x;

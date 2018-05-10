@@ -1,6 +1,7 @@
 import angular from 'angular';
 import Services from './services/index.js';
 import Controllers from './controllers/index.js';
+
 const app = angular.module('myApp', ['nvd3', 'ngRoute', 'ClaimService', 'Controllers']).config([
   '$locationProvider',
   '$routeProvider',

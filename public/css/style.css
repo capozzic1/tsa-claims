@@ -1,5 +1,5 @@
-.navibar {
-    border: 1px solid black;
+.navibar, .title {
+ 
     height: 100px;
     display: flex;
     align-items: center;
@@ -8,7 +8,7 @@
 body {
   font-family: 'Open Sans', sans-serif;
 }
-nav a {
+nav a, .title {
     color: #0ed0ff;
 
     font-size: 30px;
@@ -36,4 +36,15 @@ form input, label {
   border: none;
   width: 100px;
   font-weight: 800;
+}
+
+.linechart {
+  overflow-x: scroll;
+  width: 80%;
+}
+
+.title h2 {
+  width:50%;
+  margin: auto;
+  border-bottom: 3px solid whitesmoke;
 }
