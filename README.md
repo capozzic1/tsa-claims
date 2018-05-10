@@ -16,8 +16,9 @@ Features:
 
 Tools used:
 
-* Front-end: Bootstrap, basic CSS, JavaScript
+* Front-end: Bootstrap, basic CSS,  JavaScript (ES6)
 * Backend: Express.js
 * Chart library: Angular-nvd3
+* Webpack
 
 The project is deployed on Heroku: http://awato-project.herokuapp.com
